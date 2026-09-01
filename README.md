@@ -52,7 +52,7 @@ The dataset is synthetic (generated for practice) and was deliberately seeded wi
 
 ## Key Insights
 
-- **Revenue by segment:** Consumer segment generated the highest revenue (~$2.30M), followed by Corporate (~$1.12M) and Home Office (~$685K).
+- **Revenue by segment:** Consumer segment generated the highest revenue ($2.30M), followed by Corporate ($1.12M) and Home Office ($685K).
 - **Revenue by category:** Groceries led all categories (~$935K), narrowly ahead of Electronics (~$884K).
 - **Top country by revenue:** USA led with ~$850K in revenue across 590 orders, followed by India (~$768K, 529 orders).
 - **Top customer:** Brian Miller was the highest-value customer at ~$22.2K in lifetime spend.
