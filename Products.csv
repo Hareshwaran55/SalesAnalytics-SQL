@@ -1,0 +1,117 @@
+product_id,product_name,category,supplier,unit_price,stock_qty
+PROD0001,Wireless Mouse,Electronics,Nexa Wholesale,276.1,472
+PROD0002,Wireless Mouse - Variant 2,Electronics,Global Traders,368.56,469
+PROD0003,Wireless Mouse - Variant 3,Electronics,Acme Supplies,456.37,467
+PROD0004,Bluetooth Speaker,Electronics,Acme Supplies,503.13,343
+PROD0005,Bluetooth Speaker - Variant 2,Electronics,Nexa Wholesale,410.11,410
+PROD0006,USB-C Hub,Electronics,Prime Distributors,111.99,226
+PROD0007,USB-C Hub - Variant 2,Electronics,Global Traders,157,129
+PROD0008,4K Monitor,Electronics,Acme Supplies,508.54,166
+PROD0009,4K Monitor - Variant 2,Electronics,Global Traders,232.46,226
+PROD0010,4K Monitor - Variant 3,Electronics,Nexa Wholesale,101.95,390
+PROD0011,Mechanical Keyboard,Electronics,Global Traders,168.15,6
+PROD0012,Mechanical Keyboard - Variant 2,Electronics,Acme Supplies,250.39,174
+PROD0013,Mechanical Keyboard - Variant 3,Electronics,Prime Distributors,142.31,471
+PROD0014,Laptop Stand,Electronics,Global Traders,6.03,455
+PROD0015,Laptop Stand - Variant 2,Electronics,Acme Supplies,208.86,272
+PROD0016,Laptop Stand - Variant 3,Electronics,Acme Supplies,100.98,422
+PROD0017,Webcam,Electronics,Prime Distributors,257.88,187
+PROD0018,Webcam - Variant 2,Electronics,Acme Supplies,43.23,494
+PROD0019,Webcam - Variant 3,Electronics,Global Traders,277.53,271
+PROD0020,Power Bank,Electronics,Bluebird Imports,391.71,125
+PROD0021,Power Bank - Variant 2,Electronics,Nexa Wholesale,563.08,476
+PROD0022,Smartwatch,Electronics,Global Traders,390.44,147
+PROD0023,Smartwatch - Variant 2,Electronics,Acme Supplies,454.27,365
+PROD0024,Noise Cancelling Headphones,Electronics,Acme Supplies,261.68,485
+PROD0025,Noise Cancelling Headphones - Variant 2,Electronics,Nexa Wholesale,109.89,314
+PROD0026,Noise Cancelling Headphones - Variant 3,Electronics,Prime Distributors,413.69,385
+PROD0027,Office Chair,Furniture,Prime Distributors,152.85,491
+PROD0028,Office Chair - Variant 2,Furniture,Global Traders,21.47,
+PROD0029,Office Chair - Variant 3,Furniture,Bluebird Imports,159.41,72
+PROD0030,Standing Desk,Furniture,Nexa Wholesale,360.73,155
+PROD0031,Standing Desk - Variant 2,Furniture,Acme Supplies,51.38,274
+PROD0032,Bookshelf,Furniture,Acme Supplies,48.7,72
+PROD0033,Bookshelf - Variant 2,Furniture,Nexa Wholesale,336.59,331
+PROD0034,Filing Cabinet,Furniture,Nexa Wholesale,552.82,91
+PROD0035,Filing Cabinet - Variant 2,Furniture,Prime Distributors,540.44,155
+PROD0036,Filing Cabinet - Variant 3,Furniture,Global Traders,239.9,227
+PROD0037,Desk Lamp,Furniture,Nexa Wholesale,517.48,175
+PROD0038,Desk Lamp - Variant 2,Furniture,Global Traders,197,15
+PROD0039,Sofa,Furniture,Global Traders,498.11,54
+PROD0040,Sofa - Variant 2,Furniture,Prime Distributors,513.73,343
+PROD0041,Sofa - Variant 3,Furniture,Bluebird Imports,204.65,5
+PROD0042,Coffee Table,Furniture,Acme Supplies,48.23,80
+PROD0043,Coffee Table - Variant 2,Furniture,Bluebird Imports,470.55,159
+PROD0044,Bed Frame,Furniture,Global Traders,112.46,246
+PROD0045,Bed Frame - Variant 2,Furniture,Acme Supplies,62.78,196
+PROD0046,Bed Frame - Variant 3,Furniture,Acme Supplies,156.09,291
+PROD0047,Notebook Pack,Office Supplies,Prime Distributors,41.92,7
+PROD0048,Notebook Pack - Variant 2,Office Supplies,Global Traders,164.65,479
+PROD0049,Stapler,Office Supplies,Global Traders,221.36,70
+PROD0050,Stapler - Variant 2,Office Supplies,Prime Distributors,224.78,189
+PROD0051,Stapler - Variant 3,Office Supplies,Bluebird Imports,222.91,339
+PROD0052,Sticky Notes,Office Supplies,Global Traders,524.08,146
+PROD0053,Sticky Notes - Variant 2,Office Supplies,Acme Supplies,457.67,
+PROD0054,Printer Paper,Office Supplies,Nexa Wholesale,532.54,436
+PROD0055,Printer Paper - Variant 2,Office Supplies,Nexa Wholesale,222.38,134
+PROD0056,Whiteboard,Office Supplies,Nexa Wholesale,35.09,428
+PROD0057,Whiteboard - Variant 2,Office Supplies,Prime Distributors,224.76,
+PROD0058,Binder Clips,Office Supplies,Acme Supplies,265.81,56
+PROD0059,Binder Clips - Variant 2,Office Supplies,Nexa Wholesale,278.67,47
+PROD0060,Binder Clips - Variant 3,Office Supplies,Nexa Wholesale,245.79,245
+PROD0061,Highlighters,Office Supplies,Nexa Wholesale,546.36,225
+PROD0062,Highlighters - Variant 2,Office Supplies,Global Traders,41.13,34
+PROD0063,Envelope Pack,Office Supplies,Nexa Wholesale,219.88,122
+PROD0064,Envelope Pack - Variant 2,Office Supplies,Bluebird Imports,562.27,29
+PROD0065,Envelope Pack - Variant 3,Office Supplies,Global Traders,47.55,247
+PROD0066,T-Shirt,Clothing,Nexa Wholesale,339.91,56
+PROD0067,T-Shirt - Variant 2,Clothing,Nexa Wholesale,40.64,268
+PROD0068,Hoodie,Clothing,Global Traders,147.64,
+PROD0069,Hoodie - Variant 2,Clothing,Global Traders,519.47,51
+PROD0070,Jeans,Clothing,Nexa Wholesale,289.02,473
+PROD0071,Jeans - Variant 2,Clothing,Global Traders,567.98,38
+PROD0072,Jacket,Clothing,Acme Supplies,380.44,105
+PROD0073,Jacket - Variant 2,Clothing,Prime Distributors,171.97,34
+PROD0074,Jacket - Variant 3,Clothing,Nexa Wholesale,76.23,246
+PROD0075,Sneakers,Clothing,Acme Supplies,112.08,321
+PROD0076,Sneakers - Variant 2,Clothing,Bluebird Imports,393.52,462
+PROD0077,Sneakers - Variant 3,Clothing,Nexa Wholesale,19.56,351
+PROD0078,Cap,Clothing,Global Traders,324.59,395
+PROD0079,Cap - Variant 2,Clothing,Bluebird Imports,301.9,71
+PROD0080,Socks Pack,Clothing,Prime Distributors,91.3,
+PROD0081,Socks Pack - Variant 2,Clothing,Prime Distributors,29.84,336
+PROD0082,Socks Pack - Variant 3,Clothing,Global Traders,542.12,358
+PROD0083,Formal Shirt,Clothing,,14.31,461
+PROD0084,Formal Shirt - Variant 2,Clothing,Nexa Wholesale,435.65,111
+PROD0085,Coffee Beans,Groceries,Global Traders,174.68,429
+PROD0086,Coffee Beans - Variant 2,Groceries,Prime Distributors,118.96,298
+PROD0087,Green Tea,Groceries,,563.97,12
+PROD0088,Green Tea - Variant 2,Groceries,Acme Supplies,409.08,184
+PROD0089,Olive Oil,Groceries,Nexa Wholesale,143.69,191
+PROD0090,Olive Oil - Variant 2,Groceries,,309.43,344
+PROD0091,Olive Oil - Variant 3,Groceries,Bluebird Imports,595.15,463
+PROD0092,Pasta Pack,Groceries,Nexa Wholesale,119.48,103
+PROD0093,Pasta Pack - Variant 2,Groceries,Nexa Wholesale,189.38,138
+PROD0094,Granola Bars,Groceries,Prime Distributors,585.09,16
+PROD0095,Granola Bars - Variant 2,Groceries,Prime Distributors,247.15,211
+PROD0096,Peanut Butter,Groceries,Global Traders,343.31,122
+PROD0097,Peanut Butter - Variant 2,Groceries,Acme Supplies,497.68,79
+PROD0098,Rice Bag,Groceries,Nexa Wholesale,365.96,287
+PROD0099,Rice Bag - Variant 2,Groceries,Nexa Wholesale,330.98,70
+PROD0100,Rice Bag - Variant 3,Groceries,Bluebird Imports,160.34,61
+PROD0101,Cereal Box,Groceries,Global Traders,576.35,466
+PROD0102,Cereal Box - Variant 2,Groceries,Bluebird Imports,86.56,69
+PROD0103,Cereal Box - Variant 3,Groceries,,350.94,85
+PROD0104,Yoga Mat,Sports,Acme Supplies,256.59,299
+PROD0105,Yoga Mat - Variant 2,Sports,Nexa Wholesale,492.55,129
+PROD0106,Dumbbell Set,Sports,Prime Distributors,516.83,495
+PROD0107,Dumbbell Set - Variant 2,Sports,Nexa Wholesale,565.5,48
+PROD0108,Football,Sports,Acme Supplies,264.17,495
+PROD0109,Football - Variant 2,Sports,Prime Distributors,15.42,36
+PROD0110,Tennis Racket,Sports,Global Traders,453.31,445
+PROD0111,Tennis Racket - Variant 2,Sports,Acme Supplies,87.33,
+PROD0112,Tennis Racket - Variant 3,Sports,Prime Distributors,229.22,413
+PROD0113,Cycling Helmet,Sports,Nexa Wholesale,270.53,336
+PROD0114,Cycling Helmet - Variant 2,Sports,Prime Distributors,320.6,460
+PROD0115,Resistance Bands,Sports,Bluebird Imports,264.42,459
+PROD0116,Resistance Bands - Variant 2,Sports,Nexa Wholesale,155.74,92

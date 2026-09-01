@@ -1,0 +1,1031 @@
+customer_id,customer_name,gender,age,email,phone,city,country,segment,signup_date
+CUST00038,Tony Lee,Female,18,jeffrey90@example.org,-4574,Tokyo,Japan,Consumer,05-10-2024
+CUST00011,Olivia Lee,Male,24,lorettasingh@example.org,587.750.0474,Melbourne,Australia,Corporate,06-09-2021
+CUST00523,John Cantrell,Other,27,wfranklin@example.com,+1-266-301-2077x774,Mumbai,India,Corporate,20-04-2023
+CUST00909,Steven Sosa,Other,18,robertreed@example.org,785.353.5167,London,UK,Consumer,08-01-2024
+CUST00730,James Hale,Other,29,steven61@example.com,+1-294-427-0952x1467,Los Angeles,USA,Consumer,16-07-2022
+CUST00127,Jeffrey Cohen,Male,46,shari14@example.org,001-390-831-0535,London,UK,Consumer,03-03-2023
+CUST00330,Shelley Ortiz,Other,38,zwilson@example.com,839.365.7852,Toronto,Canada,Consumer,03-10-2020
+CUST00130,Edwin Wilkerson,Male,39,brianaallen@example.net,386-622-9763,Munich,Germany,Corporate,28-01-2019
+CUST00262,Tiffany Garrison,Female,,vasquezmaria@example.org,(261)396-4986,Berlin,,Home Office,14-07-2022
+CUST00627,Christina Gonzalez,Female,46,krystaljones@example.org,+1-672-268-2512x768,Houston,USA,Home Office,14-10-2020
+CUST00532,Monica Berry,Female,60,ulee@example.com,250.977.8730x182,Melbourne,Australia,Corporate,18-01-2022
+CUST00067,Susan Molina,Male,48,bryancrystal@example.com,612.213.4556x4054,Chennai,India,Consumer,18-04-2023
+CUST00718,William Coleman,Female,56,glenn14@example.com,,Toronto,Canada,Corporate,19-10-2021
+CUST00727,Stephanie Brown,Male,32,wwilliams@example.com,7452764416,Singapore,Singapore,Consumer,25-02-2019
+CUST00943,Stephanie Jenkins,,35,rnguyen@example.net,(420)994-9642x34664,Paris,France,Corporate,10-09-2021
+CUST00873,Laura Davis,Other,31,mirandarivera@example.net,325.707.1987,Chicago,USA,Consumer,08-03-2019
+CUST00882,Dr. Jason Howard,Other,55,john14@example.net,+1-836-223-2527x208,Lyon,France,Corporate,24-04-2020
+CUST00791,Bryan Everett,Other,27,williamfields@example.com,(654)248-7885x536,Munich,Germany,Consumer,17-10-2024
+CUST00406,Erica Kennedy,Female,28,andrewromero@example.com,-5009,Chicago,USA,Corporate,23-04-2021
+CUST00867,Tara Suarez,Female,46,lawrencethompson@example.org,(479)981-0874,Melbourne,Australia,Home Office,03-10-2021
+CUST00727,Stephanie Brown,Male,32,wwilliams@example.com,7452764416,Singapore,Singapore,Consumer,25-02-2019
+CUST00596,Abigail Lopez,Other,27,pbrown@example.com,4229842445,Vancouver,Canada,Corporate,18-08-2022
+CUST01000,Mark Robinson,Female,46,amy56@example.net,(498)203-9716x02673,Chicago,USA,Consumer,02-08-2021
+CUST00969,Stephanie Case,Male,30,bakerdavid@example.com,+1-945-955-9267x0273,Berlin,Germany,Consumer,27-06-2024
+CUST00428,Jasmine Fletcher,Female,28,bradley26@example.net,2838802298,Paris,France,Corporate,17-02-2019
+CUST00633,Jennifer Wilkins,Other,58,,001-547-903-5882x70001,Berlin,Germany,Consumer,24-07-2021
+CUST00420,Casey Riddle,Other,66,melissa83@example.net,387.884.8723x288,Bengaluru,India,Consumer,04-08-2021
+CUST00080,Richard Clark,Male,19,kconner@example.net,001-391-684-3738x171,London,UK,Corporate,07-07-2021
+CUST00528,Curtis Ramsey,Male,35,taylorbrandon@example.net,+1-912-348-6068x3490,Houston,USA,Consumer,24-09-2021
+CUST00284,Meagan Levy,Male,41,matthewkennedy@example.net,001-627-815-3470x2567,Tokyo,Japan,Consumer,07-12-2019
+CUST00723,Jill Olson,Other,38,philiparmstrong@example.net,(225)564-2671,New York,USA,Corporate,15-03-2022
+CUST00914,Meagan Conley,Other,39,ynguyen@example.com,904-772-9977,Los Angeles,USA,Consumer,25-06-2021
+CUST00983,Adam Vega,Other,48,bryantshirley@example.com,+1-367-201-4547x9632,New York,USA,Consumer,27-11-2022
+CUST00651,Michael Watson,Female,43,iliu@example.net,3797764433,New York,USA,Consumer,10-03-2022
+CUST00047,Christina Wright,Male,52,joecampbell@example.net,351.964.3883,Houston,USA,Consumer,11-12-2024
+CUST00616,Gregory Morris,Male,18,rsmith@example.com,7472394686,London,UK,Corporate,29-01-2021
+CUST00681,Jason Dickson,Other,25,npeterson@example.org,976.742.3245x586,Delhi,India,Corporate,15-03-2024
+CUST00776,Jeanette Brown,,67,suzannedavis@example.net,+1-904-558-9328x512,Los Angeles,USA,Corporate,06-12-2024
+CUST00628,Julia Anderson,Other,26,shane98@example.org,001-551-715-3059x28318,Sydney,Australia,Consumer,15-01-2022
+CUST00743,Monica Chambers,Male,33,shughes@example.org,419.586.4073,New York,USA,Consumer,08-09-2019
+CUST00507,Penny Reeves,Female,37,dhayes@example.com,765-535-2145,Melbourne,Australia,Corporate,01-02-2024
+CUST00462,Lindsey Miller,Other,32,stricklanddaniel@example.net,854.309.7464x88609,Chennai,India,Corporate,15-12-2023
+CUST00905,Adam Clark,Female,50,elizabeth18@example.com,+1-564-347-0275x1251,London,UK,Home Office,31-07-2020
+CUST00228,Michael Marsh,Male,60,wallacematthew@example.net,+1-727-753-6138x6623,Delhi,India,Consumer,12-04-2021
+CUST00734,Kristina Herrera,Female,43,dominguezmichael@example.net,001-941-783-1566x314,Tokyo,Japan,Consumer,17-10-2021
+CUST00142,William Gonzales,Male,23,freemancharles@example.com,(628)946-2948,London,UK,Consumer,31-01-2019
+CUST00808,Eric Mcintosh,Female,27,william93@example.com,-7144,New York,USA,Consumer,04-05-2021
+CUST00513,Ashley Smith,Female,58,tjensen@example.com,519.210.5432x161,Los Angeles,USA,Corporate,14-05-2020
+CUST00283,Monica Atkins,Other,70,spencer15@example.net,+1-233-864-5048x0556,Houston,USA,Consumer,08-10-2024
+CUST00771,Alyssa Oconnor,Male,54,reynoldsgregg@example.org,(249)658-8476x25271,Vancouver,Canada,Corporate,13-04-2023
+CUST00871,Timothy Lopez,Female,28,paul61@example.com,232.606.7710x541,Singapore,Singapore,Consumer,20-04-2021
+CUST00570,Larry Hopkins,Female,,dgriffith@example.com,332.477.3817,Berlin,Germany,Consumer,22-04-2022
+CUST00683,Joseph Carlson,Female,57,qwilson@example.org,604.927.4723x54931,Delhi,India,Corporate,23-02-2020
+CUST00149,Christina Gross,Other,50,carolynmiller@example.net,820-734-8050x35507,Toronto,Canada,Consumer,18-01-2020
+CUST00195,Lance Clayton,Female,36,conradgabriel@example.org,001-816-665-6675x5228,Vancouver,Canada,Consumer,20-10-2019
+CUST00704,Michelle Anderson,Female,41,whitney70@example.com,(474)238-6465,Chicago,USA,Consumer,29-05-2023
+CUST00912,Amanda Ali,Other,69,mark99@example.net,275.787.5576x2726,Chennai,India,Consumer,26-04-2023
+CUST00547,Shawna Miller,Female,62,cynthiawells@example.org,671-400-9785x5391,Manchester,UK,Corporate,18-08-2023
+CUST00697,Kelsey Mason,Other,,gloriadowns@example.org,(307)879-8558,Bengaluru,India,Consumer,08-02-2024
+CUST00269,Emily Johnson,,57,stephenfrye@example.com,+1-659-557-3825x3934,Houston,USA,Home Office,04-04-2023
+CUST00324,Brian Fuller,Female,47,riveraamy@example.net,(690)267-8929x7480,New York,USA,Corporate,20-11-2019
+CUST00829,Lisa Mcgee,Male,43,duncanmichael@example.net,736.465.4792x9870,Melbourne,Australia,Home Office,05-01-2021
+CUST00468,Adam Bell,Other,69,vrogers@example.net,(235)975-7163,Chennai,India,Consumer,12-09-2019
+CUST00574,Jonathon Garcia,Female,49,zachary79@example.org,(616)717-8535,Lyon,France,Home Office,20-08-2020
+CUST00106,Johnny Mason,Male,39,daniel16@example.org,-10886,Chicago,USA,Corporate,01-03-2023
+CUST00658,Robert Irwin,Other,35,david61@example.org,+1-313-884-2558x8587,Houston,USA,Consumer,11-10-2024
+CUST00650,Jonathan Walker,Male,50,vrojas@example.com,001-382-869-4196x93796,Chicago,USA,Consumer,01-07-2023
+CUST00447,Erika Anderson,Female,67,rcampbell@example.org,+1-318-503-2508x5447,Vancouver,Canada,Home Office,20-04-2020
+CUST00966,Julie Rodriguez,Male,40,gabriellanelson@example.net,(902)754-2910,Chennai,India,Home Office,07-02-2022
+CUST00066,Charles Schneider,Male,32,terryjillian@example.org,001-553-381-6133,Lyon,France,Consumer,16-03-2019
+CUST00558,Christopher Perry,Other,51,,889.211.3300x2708,Chicago,USA,Consumer,14-07-2022
+CUST00982,Timothy Olson,Female,54,scott21@example.com,001-277-406-3604,Melbourne,Australia,Corporate,08-12-2024
+CUST00779,Jennifer Wright,Female,45,hannahwhite@example.net,(866)458-7221x27203,Berlin,Germany,Consumer,03-01-2022
+CUST00024,Dennis Nixon,Other,69,john43@example.com,(505)261-7483,Lyon,France,Corporate,19-07-2019
+CUST00782,Sarah Barry,Other,67,garciasophia@example.com,+1-449-946-1342x116,London,UK,Consumer,25-08-2021
+CUST00132,Nicole Miller DDS,Female,21,daniel76@example.com,585.305.1494,Toronto,Canada,Consumer,31-10-2019
+CUST00989,Tyler Leonard,Female,34,nguyenrebekah@example.com,001-764-472-5189,Manchester,UK,Home Office,15-08-2024
+CUST00536,Jamie Schwartz,Female,56,jenniferfrench@example.com,(513)285-7383x27724,Singapore,Singapore,Consumer,24-05-2023
+CUST00790,Dr. Ashley Lynch,Female,62,judithnguyen@example.org,+1-424-855-5718x40952,Toronto,Canada,Home Office,21-08-2020
+CUST00020,Kathleen Murphy,Male,25,brian26@example.org,701-841-9314x170,Munich,Germany,Corporate,23-07-2024
+CUST00345,Joseph Alvarez,Female,65,dawsonblake@example.com,(417)628-8218x926,Melbourne,Australia,Corporate,21-04-2020
+CUST00374,Joseph Horton,Female,23,charles86@example.net,505-960-4405x090,Delhi,India,Corporate,28-07-2019
+CUST00992,Brian Perez,Other,41,lynchmarc@example.com,+1-422-914-4345x1158,Chicago,USA,Home Office,22-07-2020
+CUST00913,Pamela Sellers,Female,68,april86@example.com,536-747-1719,Paris,France,Consumer,20-10-2022
+CUST00111,Thomas Martin,Male,35,marionguyen@example.com,834-900-2819x5708,,Germany,Consumer,14-02-2021
+CUST00763,Rhonda Russell,Other,62,john04@example.org,001-645-332-7453,Lyon,France,Corporate,17-02-2024
+CUST00740,John Roberts,Female,53,christopher36@example.com,694.413.2701x626,Houston,USA,Consumer,28-06-2020
+CUST00961,Amber Valencia,Female,22,jasonbrooks@example.net,3867649121,New York,USA,Consumer,01-03-2019
+CUST00566,Melanie Howard,Other,19,lfigueroa@example.net,+1-414-694-7877x994,Chicago,USA,Consumer,22-06-2023
+CUST00874,Nathan Murphy,Other,57,qkemp@example.com,(769)401-4708x0187,Munich,Germany,Home Office,25-07-2019
+CUST00489,Daniel Estrada,Other,49,veronicagibbs@example.net,784.626.7341x88720,Paris,France,Consumer,09-02-2020
+CUST00802,Danielle Webster,Other,39,spenceradrian@example.net,767.963.9827,Chennai,India,Consumer,01-05-2019
+CUST00994,Joseph Nelson,Male,27,morankaren@example.com,,Lyon,France,Consumer,22-05-2020
+CUST00171,Jacqueline Marshall,Female,19,jmckinney@example.com,537-980-5081x69504,Munich,Germany,Home Office,30-09-2020
+CUST00749,Grace Hernandez,Other,26,timothyblake@example.net,+1-288-509-6617x8508,Manchester,UK,Home Office,30-11-2023
+CUST00563,Jose Flores,Male,33,juliemcdaniel@example.com,888.325.3525x4323,Mumbai,India,Corporate,04-08-2024
+CUST00013,Nicole Woods,Male,54,ryanfields@example.org,001-967-761-2220x2972,Houston,USA,Consumer,08-12-2019
+CUST00500,William Vazquez,Female,36,vholmes@example.com,642-768-4904x1290,Berlin,Germany,Corporate,02-01-2024
+CUST00232,Brandon Gonzalez,Other,22,hrogers@example.com,246-674-5014x24119,Munich,Germany,Corporate,16-10-2019
+CUST00304,Steven Russell,Male,26,castrosteven@example.net,688.911.5600,Lyon,France,Consumer,16-10-2022
+CUST00479,George Banks,Male,57,jeremytaylor@example.net,558-924-9167x84650,Mumbai,India,Corporate,25-11-2022
+CUST00670,Julie Moore,Female,35,wadams@example.net,860.269.6942x0484,Paris,France,Corporate,03-07-2023
+CUST00870,Margaret Day,Other,70,sperez@example.net,2335021487,Los Angeles,USA,Consumer,12-07-2024
+CUST00224,Zachary Bryant,Female,59,theresacampos@example.org,(925)960-9523x02949,Bengaluru,India,Consumer,16-05-2022
+CUST00543,Michael Davis,Other,64,odomnoah@example.org,001-887-694-5961x199,Singapore,Singapore,Consumer,20-04-2022
+CUST00715,Justin Hall,Male,30,charles18@example.com,669.663.5630,Tokyo,Japan,Consumer,30-05-2022
+CUST00073,Mark Rodriguez,Male,64,nicolemarshall@example.org,(863)884-7024x9603,Bengaluru,India,Consumer,28-01-2024
+CUST00249,Kristin Thomas,Other,48,blara@example.org,+1-749-443-6387x010,Delhi,India,Consumer,28-06-2023
+CUST00823,Kristin Kidd,Female,39,alicia56@example.org,001-396-899-7676x99558,Los Angeles,USA,Consumer,13-03-2023
+CUST00030,Thomas Arias,Female,21,perkinsdonald@example.net,252-498-4153x776,Vancouver,Canada,Corporate,08-01-2019
+CUST00490,Erika Baker,Female,45,sherri36@example.org,8918896860,Munich,,Corporate,11-02-2021
+CUST00582,Julie Perez,Other,65,linda11@example.org,(502)825-4426x933,Berlin,Germany,Corporate,30-05-2020
+CUST00631,Edward Butler MD,Male,19,droberts@example.com,992.277.9087,Berlin,Germany,Corporate,08-04-2020
+CUST00518,Jessica Williams,Female,19,edwardcarpenter@example.com,267.747.2710x61304,Vancouver,Canada,Consumer,15-06-2023
+CUST00991,Victoria Nixon,Male,27,davidbaker@example.org,753-357-5060x6118,Tokyo,Japan,Consumer,25-08-2020
+CUST00077,James Mckay,Other,26,virginiayu@example.com,722.813.7832,Lyon,France,Consumer,22-10-2021
+CUST00968,Alexander Wood,Male,18,jessica75@example.com,648.400.3832x3156,Chicago,USA,Consumer,28-08-2022
+CUST00135,Jaime Johnson,Other,36,ethomas@example.net,8866517022,Mumbai,India,Home Office,10-01-2019
+CUST00293,Deanna Newman,Female,53,jacquelinetownsend@example.net,554.988.2791x24443,London,UK,Consumer,16-06-2023
+CUST00888,Madeline Jones,Other,58,veronicajacobs@example.net,507-420-8656x1748,Paris,France,Corporate,29-01-2019
+CUST00967,Becky Briggs,Male,64,crystalyoung@example.net,(680)554-1093,London,UK,Home Office,01-04-2024
+CUST00154,Robert Mcintyre,,46,brian96@example.com,(630)640-4633x5356,Lyon,France,Home Office,10-04-2024
+CUST00471,Timothy Webster,Female,27,jjohnson@example.com,243.747.9838,Chicago,USA,Corporate,13-08-2024
+CUST00899,Michael Santana,Female,47,justin08@example.org,001-948-998-0603,Vancouver,Canada,Consumer,11-01-2021
+CUST00622,Jamie Jones,Female,54,wnelson@example.com,966.488.3440,Los Angeles,USA,Consumer,18-07-2023
+CUST00499,Megan Choi,Female,45,carolspencer@example.org,460-487-2604x10438,London,UK,Consumer,08-11-2020
+CUST00092,Mr. Richard Bowen,Other,19,kylebrown@example.com,534.890.6781x851,Houston,USA,Consumer,23-06-2022
+CUST00550,Lisa Eaton,Other,27,angelajohnson@example.com,590-887-3772x07518,Toronto,Canada,Corporate,17-07-2023
+CUST00504,Mason Reed,Female,,zsmith@example.net,378-781-9190,London,UK,Consumer,06-03-2020
+CUST00766,Alex Oconnell,Male,35,kenneth04@example.com,,Houston,USA,Consumer,15-08-2024
+CUST00530,Wesley Morris,Female,67,sandy27@example.org,+1-778-488-3486x31665,Vancouver,Canada,Home Office,17-12-2024
+CUST00014,Alison Lloyd,Female,61,rosesarah@example.com,730.643.4839,Los Angeles,USA,Corporate,07-04-2022
+CUST00712,Madison King,,68,mike10@example.org,001-475-342-6384x3376,Los Angeles,USA,Corporate,06-05-2022
+CUST00725,Mario Sullivan,Other,24,jsanders@example.net,001-936-382-7073x63199,Vancouver,Canada,Consumer,06-12-2024
+CUST00833,Ashley Smith,Female,51,kimberly63@example.org,+1-408-605-7466x4551,Toronto,Canada,Consumer,01-02-2019
+CUST00255,Joseph Smith,Other,39,danielle71@example.com,269-699-4056x158,London,UK,Corporate,06-05-2024
+CUST00645,Katie Potts,Other,69,tyler47@example.org,+1-716-288-3378x214,Delhi,India,Corporate,28-11-2019
+CUST00187,Lisa Carter,Female,58,riddlejacob@example.com,(583)713-0626x45252,Los Angeles,USA,Corporate,03-05-2024
+CUST00026,Amanda Conley,Male,21,zgross@example.net,(288)490-9310,Chennai,India,Corporate,27-10-2022
+CUST00199,Gary Carroll,Male,31,angelahoover@example.com,001-780-332-0846,Vancouver,Canada,Corporate,22-09-2024
+CUST00744,Anthony Fernandez,Female,52,bryantmelvin@example.com,001-535-652-5534x7041,Toronto,Canada,Consumer,15-07-2024
+CUST00710,Sheri Kramer,Other,24,emilymcintyre@example.net,+1-953-357-0369x35552,Los Angeles,USA,Corporate,01-07-2019
+CUST00146,Melanie Torres,Male,60,jodi83@example.com,-6854,Sydney,Australia,Home Office,23-12-2024
+CUST00881,Lisa Phillips,,34,pnunez@example.com,330.639.4067,Mumbai,India,Consumer,08-07-2019
+CUST00322,Sarah Trevino,Other,41,xwolfe@example.org,001-369-950-6469,Manchester,UK,Consumer,03-04-2022
+CUST00588,Mark Miller,Male,61,samanthaparker@example.com,(554)313-2327,Vancouver,Canada,Consumer,31-12-2020
+CUST00475,Zachary Ball,Male,59,deborah27@example.org,(246)482-8841x08167,New York,USA,Consumer,11-10-2019
+CUST00630,Matthew Pace,Male,37,qthomas@example.com,(843)806-4417x0633,Singapore,Singapore,Consumer,18-03-2022
+CUST00270,Jennifer Clark,Female,49,harriswilliam@example.org,001-231-841-3904x06145,Chicago,USA,Consumer,05-02-2021
+CUST00656,John Wilson,Male,36,stephen82@example.net,367.567.3954x540,Delhi,India,Consumer,26-04-2021
+CUST00083,John Fox,Other,40,justinpeterson@example.com,-9006,Toronto,Canada,Consumer,06-11-2024
+CUST00213,Marie Ryan,Female,18,hvelazquez@example.net,001-613-834-0461x29792,Chennai,India,Home Office,28-06-2020
+CUST00213,Marie Ryan,Female,18,hvelazquez@example.net,001-613-834-0461x29792,Chennai,India,Home Office,28-06-2020
+CUST00147,Daniel Oneal,Female,64,zsullivan@example.net,001-342-491-2444x98513,Singapore,Singapore,Consumer,28-10-2020
+CUST00315,Kerri Mendoza,Male,43,warrendouglas@example.net,854.541.4360,Vancouver,Canada,Corporate,12-04-2021
+CUST00208,Linda Lloyd,Other,41,mccarthydoris@example.net,876-308-3028x7313,Los Angeles,USA,Consumer,04-09-2022
+CUST00649,Leslie Lowery,Other,29,woodssean@example.org,653.679.0741,New York,USA,Consumer,02-08-2022
+CUST00452,Eric Nichols,Female,51,erik46@example.net,952-879-6755,Sydney,Australia,Consumer,13-05-2024
+CUST00685,Michele Morales,Female,36,devans@example.org,410.374.2823x2957,Bengaluru,India,Consumer,03-11-2023
+CUST00926,Nicholas Thomas,Female,53,tylermayer@example.org,4979631937,Melbourne,Australia,Home Office,05-06-2019
+CUST00279,Matthew Johnson,Male,59,belindacherry@example.org,001-811-653-0394x525,Manchester,UK,Consumer,21-12-2019
+CUST00464,Troy Maddox,Female,66,everettseth@example.org,8358520108,Delhi,India,Consumer,28-01-2020
+CUST00717,Jason Ortiz,Other,50,antonio87@example.org,+1-894-597-3364x669,Berlin,Germany,Home Office,18-01-2022
+CUST00660,Teresa Johnson,Male,36,hernandezkayla@example.net,001-753-429-2023x38570,Bengaluru,India,Consumer,19-09-2019
+CUST00638,Suzanne Stewart,Male,52,austin93@example.net,663.332.9258x641,Houston,USA,Consumer,10-01-2019
+CUST00971,Tracy Knapp,Other,20,jacksonsierra@example.org,210-296-5398x419,Berlin,Germany,Consumer,24-06-2019
+CUST00415,Diane Ballard,Female,24,cassidyfigueroa@example.com,883-940-6558x1947,Houston,USA,Corporate,02-06-2019
+CUST00436,John Moreno,Other,36,garyroberson@example.org,2554802310,Manchester,UK,Consumer,29-02-2020
+CUST00586,Daniel Smith,Female,34,laurachurch@example.net,(964)605-9252,Houston,USA,Consumer,05-03-2023
+CUST00684,Lisa Tran,Female,62,patrick30@example.net,+1-944-290-9883x604,Singapore,Singapore,Consumer,25-09-2021
+CUST00099,Janice Johnson,Male,60,chavezmatthew@example.org,615.825.3027x8272,Manchester,UK,Consumer,21-06-2021
+CUST00875,Shirley Kelley,Female,64,robertcarroll@example.com,571.414.9901x202,Los Angeles,USA,Consumer,20-03-2020
+CUST00754,Mariah Shea,Other,54,emma34@example.net,001-532-844-4046x51356,Mumbai,India,Consumer,05-03-2020
+CUST00320,Nicholas Olson,Other,58,welchglenn@example.org,(371)817-0076,Mumbai,India,Corporate,23-05-2020
+CUST00413,Mr. Austin Nelson,Other,67,adamskelsey@example.com,911-572-5096,Vancouver,Canada,Consumer,17-02-2022
+CUST00646,Brandi Macias,Other,21,davidlutz@example.org,251-400-0261x5775,Paris,France,Corporate,24-01-2019
+CUST00274,Charles Frost,Female,36,allenmadison@example.org,001-217-496-6570x30783,Houston,USA,Corporate,10-03-2020
+CUST00391,Jared Wilson,Other,19,yhall@example.com,568-922-2422,Lyon,France,Home Office,17-03-2022
+CUST00978,Alexis Smith,Male,70,brittany85@example.com,001-226-835-1537,Singapore,Singapore,Corporate,05-07-2024
+CUST00054,Stephanie Williams,Other,28,contrerasmario@example.com,+1-978-446-4936x657,Berlin,Germany,Consumer,21-02-2019
+CUST00917,Melissa Rodriguez,Female,21,jennifer11@example.net,001-246-624-2805x0769,Tokyo,Japan,Corporate,20-04-2023
+CUST00757,Emily Cabrera,Male,22,pughrichard@example.com,(619)261-3226,London,UK,Corporate,20-04-2021
+CUST00676,Philip Jennings,Other,40,ysilva@example.com,948-885-3069,Toronto,Canada,Consumer,02-01-2020
+CUST00226,Tom Russell,Female,63,grahamlori@example.org,914-522-6186x4891,Manchester,UK,Consumer,30-12-2021
+CUST00673,Randy Espinoza,Female,46,pagecaitlyn@example.com,001-585-885-9013x88186,Chicago,USA,Corporate,30-01-2021
+CUST00472,Abigail Henson,Male,23,taylorjulie@example.com,3046399755,Munich,Germany,Home Office,12-07-2024
+CUST00297,Richard Bryant,Female,60,sheilarobinson@example.com,001-783-924-6031x3757,Berlin,Germany,Consumer,28-02-2019
+CUST00544,Christopher Castillo,Other,37,henglish@example.com,(509)469-8638x069,New York,USA,Corporate,25-05-2022
+CUST00557,Jessica Morgan,Female,67,steve88@example.org,001-975-577-9345,Melbourne,Australia,Consumer,29-04-2022
+CUST00313,Anne Guerrero,Male,57,lopezdawn@example.net,+1-860-536-6635x84696,Vancouver,Canada,Corporate,05-05-2021
+CUST00947,Daniel Martin,Female,18,samantha19@example.com,932-636-1154x8196,Munich,Germany,Consumer,09-10-2020
+CUST00433,Scott Lopez,Male,35,cheryl37@example.com,576-706-6376x7570,London,UK,Consumer,23-09-2020
+CUST00367,Diane Stark,Male,18,robertgrant@example.org,(531)227-9030,Manchester,UK,Consumer,04-05-2023
+CUST00949,Brian Lawrence,Other,46,xhouston@example.com,001-978-429-9159x8924,Paris,France,Corporate,26-12-2019
+CUST00354,Brittany Williams,Other,20,molly50@example.org,+1-937-447-7613x25159,Chennai,India,Consumer,22-10-2024
+CUST00491,Jason Thompson,Other,22,robertberry@example.org,934.634.1014x4582,Delhi,India,Home Office,20-05-2019
+CUST00551,Michael Flores,Other,61,vickirogers@example.org,(718)739-4589x6296,Berlin,Germany,Home Office,20-05-2023
+CUST00690,Robert Estrada,Male,23,cwilkerson@example.net,853.789.7092x3618,Tokyo,Japan,Consumer,09-10-2020
+CUST00826,Emily Vargas,Other,61,amy86@example.net,415-519-4847x810,Munich,Germany,Consumer,05-10-2023
+CUST00117,Lindsey Gomez,Male,56,holtalex@example.org,680-446-1900x3278,Chicago,USA,Corporate,12-06-2022
+CUST00183,Rachel Johnson,Female,34,earldixon@example.org,(952)233-3510,New York,USA,Home Office,25-12-2021
+CUST00533,Shannon Russell,Male,63,alyssa53@example.com,+1-380-558-5879x3679,Berlin,Germany,Home Office,28-07-2023
+CUST00108,Jeffrey Wagner,Other,36,perezrobert@example.com,001-370-200-9494x80914,Mumbai,India,Consumer,08-08-2021
+CUST00442,Gerald Hill,Female,34,hicksashley@example.net,207.646.3570x14472,Houston,,Consumer,17-10-2023
+CUST00838,Mitchell Clark,Male,29,obrewer@example.org,235.294.1014,Mumbai,India,Consumer,05-09-2021
+CUST00045,Samantha Mejia,Male,46,markflores@example.com,+1-718-436-2361x078,London,UK,Consumer,17-11-2024
+CUST00908,Alison Santos,Male,18,alyssabright@example.com,667.913.1705,Tokyo,Japan,Consumer,20-09-2023
+CUST00328,Michael Cohen,Female,50,qhill@example.net,-3517,Lyon,France,Consumer,07-08-2023
+CUST00522,Mariah Torres,Male,61,alisonflores@example.net,001-710-965-0669x84053,Mumbai,India,Consumer,17-07-2021
+CUST00799,John Spencer,Female,47,sethmiller@example.com,540.438.6680,Houston,USA,Consumer,26-08-2019
+CUST00964,Amanda Mcgrath,Other,52,isharp@example.net,+1-207-585-0591x85260,Melbourne,Australia,Consumer,26-03-2024
+CUST00081,Kara Grant,Other,33,jmcdonald@example.net,937.728.9025x7974,Berlin,Germany,Consumer,21-07-2021
+CUST00783,Donna Cantu,Male,20,robinsonelizabeth@example.com,(423)796-6705x237,Toronto,Canada,Consumer,03-03-2024
+CUST00289,James Perez,Female,20,kimberlywilkinson@example.net,(421)747-1473x0111,Toronto,Canada,Consumer,11-01-2019
+CUST00042,Brian Miller,Other,69,bellstephanie@example.org,-7396,Los Angeles,,Consumer,01-04-2022
+CUST00161,Marc Johnson,Other,47,sullivanangelica@example.net,+1-878-557-9077x8598,London,UK,Consumer,13-12-2023
+CUST00207,Tamara Baker,Female,,taylormendoza@example.org,001-212-328-2985x18601,London,UK,Consumer,05-01-2022
+CUST00623,Charles Smith,Female,51,,(740)698-2496,Singapore,Singapore,Home Office,13-08-2019
+CUST00247,Zachary White,Male,53,lori51@example.org,001-790-435-6261x6354,Chicago,USA,Consumer,12-12-2021
+CUST00920,Leonard Holloway,Male,40,hardyrobert@example.net,(811)451-2018x73882,Toronto,Canada,Consumer,21-08-2021
+CUST00600,Nathan Clayton,Male,38,janiceblankenship@example.net,001-999-613-7059x94537,Vancouver,Canada,Consumer,07-02-2023
+CUST00624,David Carter,Male,25,brandonjohnson@example.org,(469)644-6769,Bengaluru,India,Home Office,15-06-2020
+CUST00662,Hannah Pierce,Female,47,teresa86@example.net,(821)363-1504,Chicago,USA,Corporate,09-10-2023
+CUST00953,Patrick Chen,Male,18,davidporter@example.net,001-817-641-6378x773,New York,USA,Corporate,17-03-2021
+CUST00887,Brendan Reed,Female,66,sparkscasey@example.net,(676)207-4803x6281,Toronto,Canada,Corporate,12-02-2023
+CUST00214,Alexander Vazquez,Other,47,daniellemontgomery@example.net,+1-392-719-1641x1180,Chicago,USA,Consumer,13-06-2019
+CUST00004,Donna Baird,Female,22,huntfrederick@example.com,(776)901-8955,Los Angeles,USA,Consumer,24-06-2022
+CUST00366,Nichole Andrade,Female,29,jennifer86@example.net,(888)295-7421x413,Los Angeles,USA,Consumer,30-03-2019
+CUST00053,Angelica Joseph,Female,65,daniellegates@example.net,(393)472-9306x8265,Toronto,Canada,Consumer,25-06-2020
+CUST00735,Dana Cooper,Male,23,kennethtaylor@example.org,,Chennai,India,Consumer,30-11-2021
+CUST00944,Crystal Kaiser,Female,31,greenjeffrey@example.org,(322)714-7649x534,Munich,Germany,Home Office,17-04-2019
+CUST00625,Tyler Daniels,Female,67,sonyaphillips@example.com,001-521-995-3180x4155,Lyon,France,Corporate,17-05-2024
+CUST00321,Anthony Jenkins,Female,55,kevin76@example.com,,Munich,Germany,Corporate,28-02-2019
+CUST00617,Joseph Gutierrez,Other,44,ngarcia@example.org,518.677.9475,Chicago,USA,Corporate,04-04-2019
+CUST00329,Brett Campbell,Male,58,idrake@example.org,311.456.2231x016,Sydney,Australia,Corporate,24-06-2020
+CUST00190,Amy Davenport,Other,43,grantseth@example.net,(497)505-7204,Delhi,India,Home Office,11-07-2022
+CUST00236,Tina Bauer,Male,49,randy84@example.org,001-595-714-0583x22370,Singapore,Singapore,Consumer,20-09-2019
+CUST00788,Nicole Cordova,Male,63,zhart@example.com,+1-958-578-8985x89917,Chennai,India,Corporate,04-06-2022
+CUST00561,Matthew Singleton,Male,69,whitejimmy@example.net,(393)651-2544x72013,London,UK,Consumer,18-04-2021
+CUST00286,Kurt Scott,Other,18,myersjacob@example.org,001-551-655-2093x3099,Berlin,Germany,Corporate,04-08-2019
+CUST00076,Christine Cohen,Other,48,hpalmer@example.net,+1-750-644-6600x166,Toronto,Canada,Corporate,28-08-2019
+CUST00053,Angelica Joseph,Female,65,daniellegates@example.net,(393)472-9306x8265,Toronto,Canada,Consumer,25-06-2020
+CUST00449,Anthony Blevins,Male,28,davidcochran@example.net,9915624736,Los Angeles,USA,Consumer,26-04-2021
+CUST00578,Evelyn Riley,Female,28,roachsarah@example.org,,Sydney,Australia,Consumer,27-01-2022
+CUST00970,Melissa Carter,Other,41,pcummings@example.org,(646)984-1601x7919,Sydney,Australia,Consumer,07-07-2019
+CUST00637,Jon Myers,Female,25,donald38@example.net,+1-554-935-2556x67354,Chennai,India,Corporate,26-03-2019
+CUST00347,Emily Cohen,Male,46,igarcia@example.org,567-774-5480x3721,Toronto,Canada,Consumer,23-01-2023
+CUST00467,Bonnie Stevens,Other,29,davissara@example.com,001-226-350-9439x335,Berlin,Germany,Home Office,02-12-2021
+CUST00253,Tracy Powell,Male,47,jessica55@example.net,001-862-679-8007x586,Mumbai,India,Consumer,09-12-2019
+CUST00800,Tim Thompson,Male,53,mooreanthony@example.org,424.755.5248x784,Tokyo,Japan,Consumer,02-12-2022
+CUST00181,Laura Barker,,43,christopherjackson@example.com,3665981491,Paris,France,Consumer,27-05-2020
+CUST00444,Rachel Molina,Other,28,mary10@example.org,001-435-332-5792,Mumbai,India,Corporate,11-06-2020
+CUST00988,Brian Tran,Other,60,davisbrooke@example.org,976-978-3150x88185,Paris,France,Consumer,05-04-2020
+CUST00280,Christopher Anderson,Male,24,ohancock@example.org,+1-741-916-1302x05149,Houston,USA,Corporate,24-10-2024
+CUST00732,Zachary Flores,Female,22,anthonybarker@example.net,596.529.3833x59946,Delhi,India,Corporate,01-09-2019
+CUST00550,Lisa Eaton,Other,27,angelajohnson@example.com,590-887-3772x07518,Toronto,Canada,Corporate,17-07-2023
+CUST00440,Julian Smith,Other,67,warnersusan@example.com,+1-248-389-7127x24416,Manchester,UK,Corporate,29-10-2023
+CUST00923,Jennifer Gomez,Male,65,lindwayne@example.net,+1-350-705-8150x88125,Singapore,Singapore,Corporate,09-08-2021
+CUST00295,Brandon Mckenzie,Male,58,lpatel@example.org,659-602-5511x09102,Mumbai,India,Corporate,20-10-2020
+CUST00635,Danielle Harding,Male,63,pmarsh@example.net,(399)575-6557x246,Bengaluru,India,Consumer,25-06-2023
+CUST00364,Jeremy White,Other,64,paul85@example.net,365.618.5971,Tokyo,Japan,Consumer,28-08-2022
+CUST00282,Joseph Hill,Female,32,hnorman@example.com,688.968.4460,,France,Consumer,03-12-2020
+CUST00998,Mckenzie Delgado,Other,69,alyssagolden@example.net,-8477,Houston,USA,Consumer,05-08-2024
+CUST00485,Robert Morgan,Other,21,mooreashley@example.net,882.867.5797x7593,Toronto,Canada,Consumer,13-01-2019
+CUST00751,Laura Morales,Female,56,troysaunders@example.org,(946)328-1080x342,Lyon,France,Consumer,29-07-2019
+CUST00382,Teresa Sosa,Other,38,johnsonkerry@example.net,001-210-468-6750x972,London,UK,Home Office,26-12-2023
+CUST00852,Elizabeth Gilmore,Male,63,amanda95@example.com,(206)864-1894x5612,London,UK,Consumer,26-05-2019
+CUST00934,Joel Jenkins,Female,67,eric00@example.org,(733)718-9105,Vancouver,Canada,Consumer,17-03-2023
+CUST00378,David Garcia,Other,68,nguyenleslie@example.com,(367)325-6728,Melbourne,Australia,Corporate,19-09-2021
+CUST00780,Hunter Green,Other,50,kristen84@example.org,(374)844-0098x607,Bengaluru,India,Home Office,18-04-2023
+CUST00702,Matthew Holmes,Other,55,rebecca12@example.net,(756)829-4359,Chennai,India,Consumer,24-07-2023
+CUST00129,Kimberly Wright,Female,50,jacksonmichael@example.org,942.427.7330,Chennai,India,Consumer,12-08-2024
+CUST00985,Brian Fields,Other,42,bensonwesley@example.net,001-463-931-6387x252,Manchester,UK,Corporate,19-01-2020
+CUST00798,Leah Johnson,Female,46,wagnerstephanie@example.com,8596502438,London,UK,Consumer,22-04-2023
+CUST00191,Amber Myers,Other,23,courtney34@example.net,7684616754,,Australia,Consumer,01-01-2024
+CUST00029,Derrick Powers,Female,40,emmacarter@example.net,377-971-8341x7047,Lyon,France,Consumer,17-12-2024
+CUST00818,Natalie Williams,Female,,ymorgan@example.org,+1-617-826-4642x08223,Manchester,UK,Consumer,08-03-2021
+CUST00481,Jacqueline Meza,Female,30,oanderson@example.com,(387)849-8100,Melbourne,Australia,Corporate,10-11-2020
+CUST00764,Jocelyn Smith,Male,60,patrickramirez@example.net,659.628.0288x83886,Lyon,France,Home Office,19-02-2020
+CUST00843,Melissa Wilson,Other,54,john85@example.net,789.748.2092x2694,Houston,USA,Corporate,20-07-2024
+CUST00392,David Thomas,Other,59,harrisonheather@example.com,+1-313-719-8001x9991,New York,USA,Consumer,10-06-2020
+CUST00463,Brian Cardenas,Other,70,lisa06@example.org,001-233-393-0932x451,Toronto,Canada,Consumer,07-08-2019
+CUST00046,Victoria Baker,Other,21,clarkrobert@example.net,623.626.7938x144,Vancouver,Canada,Consumer,28-03-2021
+CUST00705,Mark Wang,Other,29,kyle10@example.org,514.998.6944x414,Chicago,USA,Corporate,07-01-2023
+CUST00033,Anthony Mcintosh,Other,35,georgeperry@example.com,544-963-4786x1221,Vancouver,Canada,Consumer,20-04-2022
+CUST00601,Matthew Ross,Male,27,pattondonald@example.org,314-399-8253,Bengaluru,India,Home Office,14-05-2022
+CUST00218,Philip Randolph,Male,59,walkerjames@example.org,001-965-937-4001x65340,Toronto,Canada,Consumer,03-12-2021
+CUST00138,Warren Harris,Female,53,walkermary@example.net,338-347-3873,New York,USA,Consumer,09-02-2024
+CUST00647,Jean Jones,Other,40,eanderson@example.net,389.275.0342,Paris,France,Consumer,03-02-2019
+CUST00979,Brittany Mason,Male,57,wardstacy@example.net,570.922.4719,London,UK,Corporate,21-08-2022
+CUST00089,Kyle Rosario,Other,51,ulynch@example.com,001-977-822-1526,Melbourne,Australia,Consumer,01-09-2023
+CUST00337,Brandon Hernandez,Other,48,michael28@example.com,+1-563-610-1750x6457,Bengaluru,India,Consumer,12-02-2020
+CUST00501,William Grant,Female,39,ariasnicholas@example.net,670-362-3161,Lyon,France,Corporate,20-11-2020
+CUST00448,Miss Sara Elliott,Female,24,mackenzieromero@example.org,(611)390-9739,New York,USA,Consumer,02-12-2023
+CUST00352,Daniel Rodriguez,Female,44,deborah89@example.net,(204)490-7969,Munich,Germany,Corporate,23-12-2020
+CUST00571,Debbie Miller,Male,34,nmurphy@example.org,739.752.9675x688,Tokyo,Japan,Corporate,26-09-2024
+CUST00553,Kathryn Hooper,Female,30,esmith@example.net,889.351.2321x14008,Melbourne,Australia,Consumer,09-06-2022
+CUST00955,Robert Holden,Male,47,kelly95@example.net,4457137508,Lyon,France,Consumer,05-05-2023
+CUST00886,Darrell Hill,Male,68,tinalewis@example.com,948.509.4271x47652,Munich,Germany,Corporate,09-12-2022
+CUST00768,Cynthia Hess,Other,28,randyconner@example.com,939-285-7157x71101,Los Angeles,USA,Consumer,31-10-2024
+CUST00434,Tina Clark,Female,20,,320.248.5243x78391,London,UK,Home Office,20-11-2022
+CUST00170,Matthew Evans,Other,30,adixon@example.net,5444366844,Houston,USA,Home Office,25-04-2019
+CUST00393,Kendra Peterson,Other,20,jcunningham@example.net,001-828-904-3329x673,Los Angeles,USA,Corporate,29-04-2020
+CUST00151,Sara Howard,Other,70,rodney89@example.net,(699)953-9470,Sydney,Australia,Corporate,10-05-2022
+CUST00335,William Gutierrez,Other,66,ashley23@example.net,001-988-265-4657,Chicago,USA,Corporate,15-11-2024
+CUST00695,Kevin Johnson,Other,70,diane86@example.net,(511)206-5883,Singapore,Singapore,Home Office,07-12-2023
+CUST00759,Maureen Shaw,Other,,gomezwilliam@example.org,455-514-4992x22351,Munich,Germany,Consumer,08-10-2024
+CUST00921,Anna Mitchell,Other,61,kendra30@example.com,450-658-4898,Lyon,France,Consumer,29-08-2022
+CUST00276,Natalie Cardenas,Male,29,mitchellbernard@example.org,683-986-2336,Berlin,Germany,Consumer,20-07-2019
+CUST00021,Carl Rose,Female,27,sharoncosta@example.com,4236448347,Sydney,Australia,Consumer,30-01-2021
+CUST00621,John Wagner,Other,41,xhatfield@example.net,+1-683-767-6434x80412,Berlin,Germany,Consumer,24-04-2020
+CUST00305,Julie Anderson,Male,59,ryan32@example.net,(204)306-7589x3512,New York,USA,Consumer,20-09-2020
+CUST00515,Amy Bailey,Other,18,hallpaul@example.net,5518221431,Delhi,India,Corporate,15-11-2023
+CUST00774,Jessica Doyle,Other,56,bwalton@example.org,(472)546-8043,Munich,Germany,Home Office,28-06-2024
+CUST00835,Jennifer Phillips,Male,60,jmoreno@example.com,(335)205-4763x7881,Bengaluru,India,Corporate,05-07-2020
+CUST00031,Jerry Turner Jr.,Male,65,nicholas15@example.org,756-813-0445x16691,London,UK,Corporate,14-07-2023
+CUST00612,Eric Butler,Male,63,chess@example.com,781-607-7777x90095,Vancouver,Canada,Consumer,16-10-2019
+CUST00380,Robin Young,Other,18,zvaughn@example.net,468.923.3551x1417,,UK,Consumer,13-10-2022
+CUST00996,Tara Vargas,Female,25,tsmith@example.com,(307)531-7559x72663,Paris,France,Consumer,04-10-2020
+CUST00517,Johnathan Fisher,Female,37,bjoseph@example.com,+1-615-224-7777x03067,Munich,Germany,Corporate,02-11-2020
+CUST00824,Chelsea Ramirez,Other,70,vazquezbrittany@example.net,(649)275-8505x31603,Chicago,USA,Consumer,08-02-2024
+CUST00370,Brandon Ross,Female,70,josewest@example.org,888.379.4898x573,Sydney,Australia,Corporate,24-06-2021
+CUST00112,Kelly Hays,Other,70,robertbarnett@example.org,+1-339-994-8174x26106,Toronto,Canada,Corporate,20-05-2021
+CUST00577,Mary Cole,Other,23,elizabeth01@example.com,001-662-608-2402x1314,Paris,France,Corporate,18-09-2020
+CUST00430,Lisa Joseph,Other,24,taylor06@example.com,998.893.4701x25807,Houston,USA,Consumer,30-09-2020
+CUST00812,Tanner Harris,Female,26,jeffrey27@example.org,928-900-6135,Lyon,France,Consumer,30-01-2024
+CUST00503,Renee Edwards,Male,39,torressharon@example.com,(579)287-0479x43880,London,UK,Corporate,26-11-2022
+CUST00939,Ashley Snyder,Other,42,,477.843.7722x8763,Lyon,France,Consumer,02-09-2020
+CUST00716,Frances Quinn,Other,54,jose06@example.net,266-258-6514x108,Vancouver,Canada,Consumer,30-09-2022
+CUST00810,Amanda Parker,Other,37,xhull@example.org,+1-871-989-3846x74754,Vancouver,Canada,Consumer,05-02-2022
+CUST00292,Michael Martin,Female,22,lisa00@example.com,456.307.8738,Lyon,France,Consumer,14-11-2022
+CUST00520,Mark Williams,Male,70,ginarodriguez@example.com,+1-954-708-5586x65539,Chennai,India,Corporate,06-01-2020
+CUST00049,Mary Smith,Other,42,jeff55@example.org,7344093056,Chicago,USA,Home Office,22-09-2022
+CUST00856,Bradley Rojas,Male,33,rrichardson@example.org,+1-310-634-5627x749,New York,USA,Corporate,16-04-2022
+CUST00115,Melinda Price,Other,29,billy57@example.org,+1-918-831-6586x89236,Berlin,Germany,Consumer,22-08-2021
+CUST00609,Gabriel King,Other,36,jennifer37@example.org,(386)575-2810,Toronto,Canada,Consumer,30-09-2019
+CUST00312,Linda George,Other,62,veronicaharding@example.com,+1-532-882-8014x254,Chicago,USA,Home Office,10-10-2021
+CUST00483,Aaron Quinn,Male,53,michael53@example.com,(833)669-7742x731,Bengaluru,India,Corporate,13-07-2021
+CUST00261,Kevin Werner,Female,68,lesliebennett@example.com,790.495.5849,Bengaluru,India,Home Office,10-06-2022
+CUST00310,Patrick Davis,Male,48,dtorres@example.org,461-893-9474,Toronto,Canada,Corporate,16-02-2019
+CUST00476,Julian Mills,Male,55,tanyawells@example.com,5794168858,Munich,Germany,Consumer,02-02-2023
+CUST00587,Gary Robinson,Female,42,gthompson@example.net,825.878.4155x98310,Mumbai,India,Consumer,16-07-2022
+CUST00567,Anita Mitchell,Other,19,tfoster@example.net,804.464.0560,Lyon,France,Consumer,26-04-2019
+CUST00314,Jose Morgan,Male,48,fjohnson@example.org,+1-418-425-4775x49528,Mumbai,,Corporate,14-07-2019
+CUST00488,Ashley Hall,Male,28,paula81@example.net,667.766.7356,Singapore,Singapore,Home Office,12-07-2024
+CUST00753,Katie Bailey,Female,65,smithcarol@example.com,460.692.6731x34668,Sydney,Australia,Consumer,07-06-2020
+CUST00836,Matthew Li,Other,44,pierceelizabeth@example.net,001-853-223-9464x90599,Tokyo,Japan,Consumer,01-06-2019
+CUST00866,Juan Richardson,Other,34,austingonzalez@example.org,626.819.8577x63608,Mumbai,India,Corporate,10-03-2020
+CUST00196,Austin Gutierrez,Other,59,christianelizabeth@example.net,(663)494-2233x81406,Munich,Germany,Consumer,19-11-2022
+CUST00772,Jessica Burton,Female,45,,451-551-0304x51709,Chennai,India,Corporate,14-01-2022
+CUST00018,Colleen Cisneros,Female,51,kdyer@example.net,726.386.5635,Manchester,UK,Consumer,02-05-2023
+CUST00145,James Brown,Male,55,michael98@example.net,(608)513-6915,Munich,Germany,Corporate,27-03-2024
+CUST00720,Frank Cooper,Male,22,khamilton@example.org,001-702-751-2468x415,Sydney,Australia,Consumer,04-05-2023
+CUST00542,Anthony Harrison,Other,69,robert27@example.net,001-541-918-6473x615,Singapore,Singapore,Home Office,22-09-2024
+CUST00123,Dan Garrison,Male,36,shericuevas@example.net,395.683.6983x218,Munich,Germany,Consumer,01-06-2023
+CUST00443,Shawna Scott,Male,68,cwatson@example.net,-1321,Houston,USA,Home Office,10-05-2022
+CUST00620,Heather Olson,Female,26,lindamerritt@example.com,001-638-982-9738x33955,New York,USA,Consumer,24-04-2023
+CUST00451,Michelle Brown,Other,48,hibarra@example.org,,Bengaluru,India,Consumer,13-10-2021
+CUST00068,Frank Maynard,Other,18,nyork@example.net,5603681570,Singapore,Singapore,Home Office,12-06-2022
+CUST00410,James Garcia,Other,34,johnsonshannon@example.org,+1-820-751-1823x147,Tokyo,Japan,Consumer,17-01-2023
+CUST00439,Sandra Hernandez,Other,44,jennifer50@example.com,778.218.2494x73237,Tokyo,Japan,Corporate,31-05-2023
+CUST00516,Patrick Ballard,Male,68,james95@example.com,359.793.4265x787,Lyon,France,Home Office,06-11-2021
+CUST00383,Lydia Edwards,Female,56,katie87@example.org,355-601-1708x6171,London,UK,Home Office,30-01-2019
+CUST00990,Virginia White,Female,51,tracey21@example.org,425.892.1041x5150,Chennai,India,Home Office,26-12-2019
+CUST00848,John Harrison,Male,54,curtisjenkins@example.com,(943)277-3019x00184,Melbourne,Australia,Consumer,23-02-2022
+CUST00296,Anita Harris,Male,43,rmorrison@example.net,4048341879,Melbourne,Australia,Consumer,13-03-2023
+CUST00773,Rachel Webb,Male,25,andrewcameron@example.org,(783)990-0283x33885,Tokyo,Japan,Consumer,25-01-2022
+CUST00837,Stephanie Robinson,,46,tgutierrez@example.org,001-452-293-0281x75805,Lyon,France,Consumer,03-03-2020
+CUST00294,Cameron Farrell,Male,68,kwest@example.org,+1-211-299-0982x4128,Chennai,India,Consumer,17-09-2022
+CUST00845,Joseph Watkins,Other,53,chelsea97@example.org,+1-225-994-2437x767,Bengaluru,India,Consumer,13-10-2021
+CUST00258,Caroline Ford,Other,66,whitechelsea@example.net,551.965.6647,Berlin,Germany,Consumer,05-11-2024
+CUST00811,Joshua Meyer,Male,59,sandrastone@example.net,001-368-796-8540x260,Singapore,Singapore,Consumer,22-03-2020
+CUST00394,Katherine Simmons,Female,30,jenny64@example.net,+1-970-977-5807x28441,Chicago,USA,Home Office,14-06-2019
+CUST00606,Yolanda Olson,Male,21,hjohnston@example.com,547.604.4395,Mumbai,India,Consumer,27-09-2019
+CUST00350,John Thomas MD,Female,64,wesleyvelazquez@example.com,513-417-5918x882,Tokyo,Japan,Home Office,06-02-2019
+CUST00792,Michael Richardson,Female,58,gabrieltyler@example.org,001-858-594-7267x468,Tokyo,Japan,Corporate,02-10-2020
+CUST00781,Courtney Nixon,Other,62,craigbennett@example.org,7092299866,Bengaluru,India,Consumer,04-07-2021
+CUST00686,Joshua Nelson,Other,56,darrensnyder@example.org,9315150342,Lyon,France,Consumer,09-08-2022
+CUST00432,Kimberly Murray,Female,35,twhite@example.org,001-771-987-5519x18892,Munich,Germany,Corporate,04-11-2023
+CUST00343,Jacob Wilson,Female,,ronaldmiller@example.com,945.788.0569x4827,Lyon,France,Home Office,21-06-2024
+CUST00409,Andres Brown,Male,49,ulong@example.com,419.308.8753,Chennai,India,Corporate,07-05-2021
+CUST00496,Tiffany Johns,Other,26,wilsoncory@example.net,976.219.5389x1714,London,UK,Corporate,05-04-2022
+CUST00377,Shannon Keith,Female,58,jenniferrollins@example.org,+1-555-300-6433x917,Berlin,Germany,Corporate,02-11-2022
+CUST00424,Kimberly Singh,Female,55,thomas51@example.net,216-515-4584,Bengaluru,India,Corporate,05-03-2024
+CUST00984,Steve Freeman,Other,42,stephanierangel@example.net,964.911.8607,Sydney,Australia,Consumer,17-10-2019
+CUST00408,Jacob Buchanan,Female,24,grichards@example.org,884.904.9778,Los Angeles,USA,Consumer,08-02-2019
+CUST00484,Tricia Fischer,Male,70,samanthaashley@example.net,(220)758-4502x0474,Houston,USA,Consumer,29-09-2023
+CUST00572,Levi Sullivan,Male,42,ewilson@example.com,292-818-8877x9633,Los Angeles,USA,Consumer,01-03-2021
+CUST00173,Nancy Martin,Male,22,emilyleonard@example.com,582.323.8171,Berlin,Germany,Consumer,14-09-2024
+CUST00256,Jon Crosby,Other,20,mjohnson@example.org,3223433064,Lyon,France,Consumer,05-09-2024
+CUST00438,Craig Mendez,Male,45,carlos59@example.com,654-485-3699,Mumbai,India,Consumer,07-05-2020
+CUST00205,Spencer Garcia,Male,65,shirleyalexander@example.net,001-971-990-7263,Tokyo,,Consumer,20-08-2022
+CUST00175,Tony Ortega,Male,56,peterjohnson@example.com,(843)781-3722,Berlin,Germany,Home Office,27-01-2023
+CUST00591,Maria Beasley,Other,26,williamsandrew@example.net,-4438,Singapore,Singapore,Home Office,11-11-2022
+CUST00615,Christine White,Other,63,susanstephens@example.net,933.660.3723,London,UK,Consumer,01-08-2021
+CUST00474,Hunter Nunez,Male,60,tscott@example.com,455.606.4330,Lyon,France,Corporate,28-08-2023
+CUST00397,Zachary Cunningham,Other,23,nathaniel74@example.com,953.348.3374x27813,Houston,USA,Consumer,10-12-2024
+CUST00061,Dana Hernandez,Other,69,brownduane@example.net,964-500-8599x798,Manchester,UK,Corporate,28-12-2019
+CUST00355,Daniel Ramsey,Other,40,ewade@example.net,(519)906-6381,New York,USA,Consumer,20-01-2021
+CUST00381,Mckenzie Smith,Male,65,rileyadrienne@example.org,5826356535,Vancouver,Canada,Consumer,18-03-2020
+CUST00325,Meredith Hubbard,Other,67,anthonywong@example.com,363.589.5992,Manchester,UK,Consumer,20-08-2021
+CUST00861,Brandon Daugherty,Other,46,william59@example.com,6809379311,Berlin,Germany,Consumer,06-07-2023
+CUST00603,Angel Johnson,Female,25,nicholasreed@example.net,281.450.2413,Melbourne,Australia,Consumer,04-05-2020
+CUST00331,Patrick Lewis,Other,42,sean37@example.com,(391)517-1976x4746,Sydney,Australia,Consumer,04-01-2022
+CUST00085,Thomas Franklin,Male,51,mccormickrenee@example.net,(392)291-3072x1206,Sydney,Australia,Consumer,19-03-2021
+CUST00498,Chad Thompson,Other,53,stanley78@example.org,345.310.0262x72185,Paris,France,Consumer,04-11-2019
+CUST00057,Darlene Nguyen,Other,23,rebecca72@example.com,473.694.9835x50326,Sydney,,Consumer,29-01-2023
+CUST00365,Garrett Shields,Male,20,medinacraig@example.net,(745)602-4155x52770,Chennai,India,Consumer,04-12-2020
+CUST00956,Julian Hall,Female,59,alewis@example.net,(448)468-2460,Mumbai,India,Consumer,26-12-2020
+CUST00629,Allison Patterson MD,Male,32,craigcardenas@example.com,383-553-2892x81121,New York,USA,Consumer,04-03-2021
+CUST00135,Jaime Johnson,Other,36,ethomas@example.net,8866517022,Mumbai,India,Home Office,10-01-2019
+CUST00936,Natalie Soto,Female,47,davischristopher@example.org,001-299-345-9565x374,Lyon,France,Home Office,15-11-2024
+CUST00050,Andre Simpson,Female,56,gbrown@example.com,+1-782-881-2646x44604,Toronto,Canada,Corporate,01-07-2021
+CUST00447,Erika Anderson,Female,67,rcampbell@example.org,+1-318-503-2508x5447,Vancouver,Canada,Home Office,20-04-2020
+CUST00878,Kelly Beasley,Male,33,lewisrichard@example.com,591-374-6558x5140,Chennai,India,Consumer,30-03-2024
+CUST00125,Robert Ross,Female,20,richard72@example.com,(705)356-0736,Lyon,France,Corporate,03-02-2020
+CUST00803,Courtney Padilla,Other,49,michellebrown@example.com,755-724-2718x1831,Tokyo,Japan,Consumer,06-08-2020
+CUST00486,Natasha Rodriguez,Male,62,michele99@example.org,001-584-481-9356x07691,Chennai,India,Consumer,30-04-2023
+CUST00309,Rita Diaz,Male,37,bdavis@example.org,531.718.3981x24674,Mumbai,India,Consumer,14-01-2024
+CUST00182,Rachel Page,Male,63,underwoodcharles@example.com,403-292-4517,Houston,USA,Home Office,26-11-2020
+CUST00778,Samuel Delgado,Other,32,dbennett@example.org,(399)568-1849x454,,India,Home Office,28-07-2020
+CUST00831,Andrew Smith,Female,54,fostercassandra@example.org,(246)733-3076x30013,Paris,France,Corporate,18-01-2020
+CUST00668,Jeffery Gonzalez,Other,43,tracy46@example.org,+1-535-484-6031x150,Melbourne,Australia,Consumer,06-03-2022
+CUST00581,Belinda Huang,Male,21,monique16@example.org,869.786.3429,Los Angeles,USA,Home Office,24-04-2019
+CUST00022,David Smith,Other,22,williesanchez@example.com,767-586-8433,Chennai,India,Consumer,29-12-2023
+CUST00007,Matthew Smith,Other,55,josesmith@example.com,-4743,Tokyo,Japan,Home Office,22-05-2021
+CUST00395,Jessica Waller,Male,66,hporter@example.com,(892)970-8154x2555,,Australia,Home Office,18-08-2022
+CUST00460,Robert Villanueva,Male,26,reidkari@example.net,383-822-3625x82660,Mumbai,India,Consumer,14-05-2019
+CUST00133,Raymond Franco,Other,65,micheal82@example.org,001-649-556-2553x5285,,Canada,Consumer,07-05-2019
+CUST00063,Mark Mcknight,Female,48,abaldwin@example.com,(671)872-3143x01540,New York,USA,Home Office,11-02-2023
+CUST00323,John Sullivan,Male,19,jimenezryan@example.net,+1-901-597-4096x940,Bengaluru,India,Consumer,08-02-2021
+CUST00957,Lauren Marquez,Male,55,lewisjerry@example.net,(872)968-3763,Mumbai,India,Home Office,19-12-2020
+CUST00632,Peter Pena,Other,30,brownmario@example.com,229-923-3841,Houston,USA,Home Office,17-03-2021
+CUST00272,Jessica Gallegos,Other,33,wyatt65@example.net,,Bengaluru,India,Corporate,25-02-2021
+CUST00668,Jeffery Gonzalez,Other,43,tracy46@example.org,+1-535-484-6031x150,Melbourne,Australia,Consumer,06-03-2022
+CUST00368,Tanya Bennett,Male,27,ericrose@example.net,001-967-240-3548,Singapore,Singapore,Corporate,08-03-2021
+CUST00538,Shaun Summers,Male,27,omelendez@example.org,5329688530,Bengaluru,India,Consumer,03-07-2021
+CUST00201,Michelle Gibson,Female,66,christina16@example.org,231-380-7334x3840,Manchester,UK,Consumer,14-02-2021
+CUST00534,Matthew Russo,Male,59,caitlin00@example.org,893.344.8282x61235,Los Angeles,,Consumer,30-07-2023
+CUST00885,Daniel Lee,Female,68,vfoley@example.com,475-636-9142x29642,Tokyo,Japan,Corporate,31-10-2023
+CUST00564,Chloe Freeman,Female,41,drakejeremy@example.com,001-590-383-6874x9285,Los Angeles,,Home Office,24-03-2019
+CUST00211,Richard Mathis,Female,37,nguyencody@example.com,(279)754-3068,Mumbai,India,Corporate,20-05-2020
+CUST00604,Deborah Burns,Female,45,hbaker@example.net,(922)788-8950x48447,Berlin,Germany,Corporate,19-09-2022
+CUST00736,Sarah Hernandez,Female,29,jessebrown@example.org,605-400-1085x77701,Vancouver,Canada,Consumer,27-09-2024
+CUST00865,Margaret Cooper,Other,60,nscott@example.com,786.924.1920,Melbourne,Australia,Home Office,30-09-2021
+CUST00339,Adam Vaughn,Male,30,upatton@example.com,,Manchester,UK,Consumer,14-06-2022
+CUST00241,Beverly Lee,Female,64,grodriguez@example.com,404.787.2955,Bengaluru,India,Home Office,04-02-2023
+CUST00275,Raymond Webster,Female,34,deborah64@example.org,973.322.4651x86290,Berlin,Germany,Corporate,08-12-2024
+CUST00388,Monica Jones,Other,22,jessicabowman@example.org,(972)208-4563,London,UK,Consumer,20-11-2023
+CUST00143,Chris Shaw,Male,43,mcbrideaustin@example.org,+1-796-572-7639x815,Berlin,Germany,Corporate,12-11-2020
+CUST00560,Jean Johnson,Male,30,paulschmidt@example.org,864-667-5002,Chennai,India,Consumer,08-02-2020
+CUST00023,Makayla Sullivan,Female,39,tina20@example.org,+1-946-420-1684x9340,Melbourne,Australia,Corporate,12-12-2019
+CUST00162,Sheila Kelly,Male,48,longalicia@example.net,+1-551-483-9447x58979,Chennai,India,Corporate,25-05-2019
+CUST00399,Aaron Sanders,Female,45,williamlynch@example.org,290-442-3298x9727,London,UK,Consumer,03-04-2020
+CUST00082,Miss Catherine Ward DDS,Other,44,lynchfelicia@example.com,,Tokyo,Japan,Consumer,02-03-2024
+CUST00580,Gina Morton,Female,40,fmunoz@example.net,001-359-622-6380x0119,Vancouver,Canada,Consumer,02-02-2021
+CUST00210,Brian Schwartz,Male,42,abigailbryant@example.com,+1-693-910-0026x029,London,UK,Consumer,13-07-2020
+CUST00678,Christina Duncan,Other,24,robin32@example.net,560-519-6978,Berlin,Germany,Corporate,25-02-2019
+CUST00568,Steven Ramirez DDS,Other,49,pcarlson@example.org,+1-398-587-5319x15162,Houston,USA,Consumer,08-01-2024
+CUST00231,Leah Gonzalez,Male,18,larsonrobert@example.net,501-202-1302x324,Lyon,France,Corporate,22-02-2019
+CUST00541,Christopher Little,Female,21,justinlester@example.net,+1-826-624-4380x88813,Tokyo,Japan,Consumer,18-10-2023
+CUST00383,Lydia Edwards,Female,56,katie87@example.org,355-601-1708x6171,London,UK,Home Office,30-01-2019
+CUST00058,Caroline Glover,Male,40,tatebrandon@example.com,488.791.4865x465,Berlin,Germany,Consumer,25-12-2020
+CUST00933,Gina Martinez,Male,29,martinezchristina@example.com,926-294-0026x5909,Singapore,Singapore,Consumer,30-10-2020
+CUST00242,Amy Smith,Male,39,baileysmith@example.com,+1-800-853-5454x595,Houston,USA,Home Office,14-09-2020
+CUST00664,Carl Hampton,Other,41,jsellers@example.org,905.589.3794x7406,Mumbai,India,Consumer,20-01-2021
+CUST00198,Aaron Soto,Female,25,seangordon@example.com,001-589-600-8717,Chennai,India,Corporate,11-10-2022
+CUST00931,Rodney Chapman,Male,52,kendra83@example.org,(868)476-0090x271,Singapore,Singapore,Consumer,26-06-2023
+CUST00202,Russell May,Other,30,angela29@example.net,754-910-2560x71512,Bengaluru,India,Consumer,30-11-2021
+CUST00186,Michael Conner,Female,24,amcguire@example.com,590.317.6694x7258,Berlin,Germany,Home Office,13-02-2021
+CUST00134,Robert Morse,Male,23,nstein@example.com,(272)949-9123x22761,Berlin,Germany,Consumer,16-11-2021
+CUST00494,Marie Walker,Male,50,lanekerri@example.org,+1-973-533-7384x546,Paris,France,Corporate,14-05-2023
+CUST00056,Nathan Miller,Male,66,ydelgado@example.org,5193132742,Toronto,Canada,Corporate,31-12-2023
+CUST00858,James Davis,Other,40,daniel43@example.com,446-588-3851x9559,Chennai,India,Consumer,20-11-2024
+CUST00688,Tina Fischer,Female,29,richardschristina@example.org,547.860.2040,Chennai,India,Consumer,25-09-2020
+CUST00894,Courtney Kramer,Female,54,sarah33@example.com,001-244-453-8769x18675,Bengaluru,India,Consumer,26-10-2020
+CUST00165,Dawn Hawkins,Other,37,duncanbrian@example.org,484-854-3471x8713,Berlin,Germany,Corporate,30-09-2024
+CUST00318,Dr. Mary Rogers,Other,66,zweeks@example.com,001-650-685-8105,London,UK,Consumer,22-12-2022
+CUST00102,Kenneth Taylor,Male,43,aimeehall@example.org,491.519.7423,Manchester,UK,Corporate,01-07-2022
+CUST00244,Sarah Koch,Other,64,mercedesblevins@example.net,-9017,,India,Consumer,21-05-2019
+CUST00457,Jesse Martin,Female,58,nichole26@example.net,001-587-670-3876x3560,Chicago,USA,Consumer,15-10-2023
+CUST00937,Heather Cooley,Male,24,palmerhannah@example.net,747.266.7920x4911,London,UK,Consumer,20-04-2024
+CUST00140,David Watson,Female,42,milesstephanie@example.com,212-661-9391x5255,Lyon,France,Consumer,26-09-2019
+CUST00868,Zachary Miller,Male,49,mitchellamanda@example.com,(744)742-8664x016,New York,USA,Consumer,31-07-2021
+CUST00356,Erika Gonzales,Female,52,jessicaholmes@example.net,759-201-4692,Munich,Germany,Consumer,08-09-2021
+CUST00980,Angela Walter,Male,43,dawn56@example.net,(990)365-7893x640,Los Angeles,USA,Home Office,24-11-2024
+CUST00398,Melissa Scott,Male,24,wilsonpamela@example.com,937.417.5427x2023,Munich,Germany,Consumer,06-05-2020
+CUST00197,Janice Kemp,Male,37,ingramcassidy@example.net,393-334-1591x508,Berlin,,Consumer,12-01-2024
+CUST00853,Emily Flores,Male,57,wesleytaylor@example.com,-1745,Toronto,Canada,Consumer,28-01-2019
+CUST00941,Tony Miles,Male,34,sandramontgomery@example.com,743-849-0202x4209,Manchester,UK,Consumer,22-10-2024
+CUST00028,Derek Daniel,Female,60,jerrysantos@example.com,661.474.0931x9254,Bengaluru,India,Consumer,28-01-2019
+CUST00465,Tracy King,Female,40,susan76@example.com,+1-913-919-4275x879,Melbourne,Australia,Corporate,18-06-2020
+CUST00903,Alexander Silva,Male,63,madeline89@example.org,(944)274-1968x503,Vancouver,Canada,Corporate,31-12-2020
+CUST00349,Daniel Huffman,Female,37,dwaynehurst@example.net,,Munich,Germany,Corporate,04-03-2023
+CUST00088,Albert Ball,Other,25,shannonmanning@example.org,(221)348-7740x000,Toronto,Canada,Consumer,02-05-2021
+CUST00267,Melanie Garner,Male,48,denisecastillo@example.net,442.981.8562,Delhi,India,Consumer,25-10-2021
+CUST00379,Ashley Francis,Female,59,melissa19@example.net,001-467-776-2967x27481,Sydney,Australia,Home Office,27-03-2021
+CUST00977,Matthew Thompson,Other,34,pughsean@example.com,425-476-9286x6067,New York,USA,Consumer,29-09-2022
+CUST00084,Rebecca Rivera,Other,44,jennifer29@example.net,606-386-8906,Bengaluru,India,Corporate,14-01-2019
+CUST00919,Mathew Nelson,Male,31,njackson@example.com,2205865838,Vancouver,Canada,Consumer,22-10-2023
+CUST00888,Madeline Jones,Other,58,veronicajacobs@example.net,507-420-8656x1748,Paris,France,Corporate,29-01-2019
+CUST00760,Brenda Smith,Male,70,quinnjoe@example.org,212.618.1259,Chicago,USA,Consumer,01-02-2020
+CUST00916,Julia Russell,Male,38,stonejoshua@example.net,560-549-2887x17913,Bengaluru,India,Home Office,16-12-2020
+CUST00103,Austin Oconnor,Other,32,drandall@example.net,(754)271-0672x432,Chennai,India,Consumer,25-12-2019
+CUST00825,Kristen Page,Male,42,christopher74@example.net,(286)858-4147,Vancouver,Canada,Home Office,23-06-2021
+CUST00929,Deborah Porter,Female,27,mirandahaley@example.net,001-589-886-8114x4091,Houston,USA,Corporate,12-02-2023
+CUST00654,Cathy Adams,Male,57,xmarshall@example.net,001-538-333-5299x2554,Berlin,Germany,Corporate,23-02-2019
+CUST00556,Robert Gutierrez,Female,47,martinjennifer@example.net,001-808-799-0440,Tokyo,Japan,Corporate,01-06-2023
+CUST00407,Cynthia Rivera,Male,36,marywinters@example.com,941.699.0045,Delhi,India,Consumer,05-02-2023
+CUST00025,Briana Willis,Male,35,tjohnson@example.net,419.682.9657,Bengaluru,India,Consumer,06-05-2023
+CUST00806,Richard James,Other,59,eflores@example.net,428.550.0536x42589,Munich,Germany,Corporate,26-09-2024
+CUST00508,Ms. Amanda Taylor DDS,Male,70,peterwebster@example.net,2467288941,Houston,USA,Consumer,10-06-2019
+CUST00390,Joshua Lopez,Other,28,qmoreno@example.org,594.811.2751,New York,USA,Consumer,01-09-2020
+CUST00553,Kathryn Hooper,Female,30,esmith@example.net,889.351.2321x14008,Melbourne,Australia,Consumer,09-06-2022
+CUST00285,Martin Marquez,Female,56,juan35@example.org,(306)663-2581,Sydney,Australia,Home Office,21-08-2021
+CUST00793,Amber Bowen,Male,61,stephenford@example.net,3646377149,Houston,USA,Consumer,20-02-2023
+CUST00639,Carolyn Rosales,Male,27,jasongrant@example.net,522-471-7692x061,Tokyo,Japan,Consumer,03-12-2020
+CUST00904,Amanda Greene,Female,46,melissa39@example.net,663-571-8981,New York,USA,Consumer,07-04-2020
+CUST00707,Dylan Ramirez,Other,44,sanchezbarry@example.net,(408)452-5678x23696,Paris,France,Corporate,01-01-2022
+CUST00599,Samuel Daniels,Female,69,jbrown@example.org,257.425.1524,Tokyo,Japan,Corporate,12-09-2020
+CUST00431,Ryan Howell,Male,68,anthonysmith@example.com,+1-218-721-0931x256,London,UK,Consumer,09-09-2024
+CUST00027,Jamie Hayes,Other,70,burtonconnie@example.net,374.907.1881,Munich,Germany,Corporate,06-07-2020
+CUST00731,Ruben Murray,Female,37,heather68@example.net,(514)427-3344x3168,Paris,France,Consumer,29-08-2024
+CUST00669,Terri Levy,Male,33,fadams@example.net,001-463-609-1284,New York,USA,Home Office,29-11-2023
+CUST00288,Jason Cox,Female,39,darrendowns@example.org,+1-963-959-3608x8447,Lyon,France,Consumer,02-12-2024
+CUST00178,David Newton,Female,61,danielcollier@example.org,001-387-818-1296x7000,New York,USA,Consumer,18-11-2022
+CUST00636,Alicia Stevens,Male,47,smithmegan@example.com,+1-728-724-9690x4826,Vancouver,Canada,Consumer,17-03-2019
+CUST00048,John Fuentes,Other,19,crocha@example.com,410.939.9315,Houston,USA,Home Office,14-08-2022
+CUST00521,Kelly Blair,Female,54,rubengriffin@example.com,429.365.3813x39692,Houston,USA,Corporate,28-12-2023
+CUST00193,Michael Cox,Other,36,paul74@example.org,697.986.2502,Singapore,Singapore,Corporate,20-12-2022
+CUST00148,John Waller,Other,57,egriffith@example.com,524-648-0243x03067,Chennai,India,Consumer,08-03-2024
+CUST00590,Dennis Page,Male,22,sarah08@example.org,-3443,Los Angeles,USA,Consumer,10-06-2024
+CUST00008,John Morales,Male,20,carlosclark@example.org,359-701-0928,Mumbai,India,Consumer,06-09-2022
+CUST00987,Alison Pollard,Other,70,walkererica@example.org,(243)384-2967,Berlin,Germany,Corporate,15-01-2021
+CUST00495,Katherine Norman,Male,20,kathydominguez@example.net,590.938.6747x4490,Chennai,India,Consumer,21-03-2024
+CUST00334,Melissa Fleming,Other,32,davistiffany@example.org,663-365-9765x6131,Vancouver,Canada,Corporate,01-07-2022
+CUST00036,Shelley Johnson,Male,27,colemankathryn@example.com,001-370-516-8773,Manchester,UK,Consumer,05-12-2019
+CUST00470,Eric Charles,Female,57,gonzalezashley@example.org,4763321736,Paris,France,Consumer,17-09-2020
+CUST00842,Jeffrey Moore,Other,62,joshuataylor@example.com,203-565-0915x85842,Bengaluru,India,Consumer,16-03-2020
+CUST00525,Allison Willis,,27,mchen@example.net,(211)481-5577x92170,Chicago,USA,Corporate,06-06-2021
+CUST00319,Paula Griffin,Female,25,kmcdonald@example.com,992-713-2323,Los Angeles,USA,Corporate,17-02-2020
+CUST00459,Kenneth Anderson,Other,32,bakerkimberly@example.net,+1-647-846-1400x581,Munich,Germany,Corporate,03-05-2023
+CUST00387,Charles Hancock,Female,68,lcantu@example.com,787-204-3837x499,Manchester,UK,Corporate,27-05-2023
+CUST00122,Robert Allen,Female,58,christophernelson@example.org,-6944,Los Angeles,USA,Consumer,13-10-2020
+CUST00955,Robert Holden,Male,47,kelly95@example.net,4457137508,Lyon,France,Consumer,05-05-2023
+CUST00872,Cheryl Patterson,Other,51,craigerica@example.net,707-230-6907x08404,Bengaluru,India,Consumer,08-07-2023
+CUST00830,Kristina Melendez,Male,64,idowns@example.org,243.226.7364,Singapore,Singapore,Corporate,14-09-2022
+CUST00506,Timothy Rodriguez,Other,43,jamesburton@example.net,(892)297-6935x6097,Los Angeles,USA,Consumer,31-07-2024
+CUST00972,Brittany Lawson,Other,39,fmora@example.org,001-479-359-0578,Bengaluru,India,Consumer,28-08-2024
+CUST00062,Antonio Johnson,Female,40,johnbrown@example.org,8984326389,Manchester,UK,Consumer,19-01-2022
+CUST00535,Holly Lawrence,Female,37,ronaldhall@example.com,532.508.8287,Singapore,Singapore,Consumer,24-05-2023
+CUST00726,Cathy Reed,Male,46,jessicanelson@example.com,001-813-309-8913,Tokyo,Japan,Consumer,21-09-2024
+CUST00524,Peter Burns,Other,24,hbrown@example.org,001-643-961-4164x3304,Chennai,India,Corporate,19-11-2023
+CUST00371,Michelle Daniels,Female,22,susanwalker@example.org,406-944-0086x48694,Singapore,Singapore,Consumer,22-09-2021
+CUST00303,Jodi Henry,Female,54,forbesjason@example.org,966-686-3461x98769,Houston,USA,Corporate,26-01-2020
+CUST00273,Dawn Thomas,Other,66,edwardrodriguez@example.org,(948)299-1876,Melbourne,Australia,Corporate,13-05-2023
+CUST00455,William Miller,Male,34,taramoore@example.org,269-241-0845,Singapore,Singapore,Consumer,05-08-2019
+CUST00687,Anthony Lopez,Male,,tnolan@example.net,4439166804,Mumbai,India,Corporate,14-11-2024
+CUST00910,Jennifer Freeman,Male,38,whitneythornton@example.net,292-875-8102x080,Paris,France,Home Office,17-02-2019
+CUST00078,Joshua Martinez,Other,59,okelly@example.com,001-964-962-7045x345,New York,USA,Consumer,27-07-2021
+CUST00427,Robert Hall,Male,33,antoniomiller@example.net,-8660,Singapore,Singapore,Consumer,25-02-2023
+CUST00260,Gabrielle Foster,Male,48,michelemelendez@example.net,827.826.2088x05639,New York,USA,Corporate,01-01-2021
+CUST00805,Kathleen Stevens,Male,59,sstevenson@example.net,560-601-6112x5256,New York,USA,Consumer,24-10-2023
+CUST00386,Keith Jones,Female,64,rodriguezamber@example.com,5198030298,New York,USA,Home Office,14-05-2021
+CUST00527,Carol Davis,Male,31,rileymeza@example.com,371-925-5324,Houston,USA,Home Office,11-06-2020
+CUST00846,Carol Armstrong,Male,58,angela56@example.org,971.404.4734,Sydney,Australia,Corporate,11-07-2022
+CUST00883,James Nichols,Male,53,jesse54@example.org,+1-380-816-8326x7713,Toronto,Canada,Home Office,29-06-2024
+CUST00257,Tammy Davis,Other,38,ryanlee@example.net,266.212.9240x1021,Berlin,Germany,Corporate,19-12-2020
+CUST00965,Angela Smith,Other,40,vickie92@example.com,2107566139,Sydney,Australia,Home Office,29-05-2023
+CUST00959,Paige Reed,Other,56,graystephen@example.net,001-629-319-3594x217,New York,USA,Consumer,10-02-2021
+CUST00107,Lindsey Johnson,Other,19,frankmatthew@example.org,769-356-8058x25360,Melbourne,Australia,Consumer,08-03-2022
+CUST00180,Keith Williams,Female,25,michael34@example.com,-8879,Delhi,India,Consumer,06-12-2021
+CUST00001,Chris Curtis,Female,59,nicholsonclinton@example.net,3838016613,,France,Home Office,10-05-2019
+CUST00010,Michael Black,Other,37,stephanierice@example.org,001-780-584-1485x253,Toronto,Canada,Consumer,05-09-2022
+CUST00540,Bryan Butler,Female,35,anthonyhouston@example.com,832.887.2028,Delhi,India,Consumer,14-06-2023
+CUST00907,William Hall,Male,22,joshua54@example.org,475.457.6493x48544,Toronto,Canada,Corporate,08-01-2020
+CUST00666,Ricardo Lynch,Female,19,marymanning@example.com,001-895-256-8822x513,Chennai,India,Consumer,22-07-2021
+CUST00194,Jennifer Jones,Other,26,zcox@example.net,514-370-0894x5954,Chennai,India,Consumer,02-04-2024
+CUST00974,Tyler Davis,Female,52,christophersmith@example.net,4206754151,Berlin,Germany,Consumer,05-03-2020
+CUST00922,Cassandra Jensen,Male,60,edwinbarnes@example.net,954-961-8346,Tokyo,Japan,Home Office,21-07-2022
+CUST00512,Patricia Spencer,Male,31,derek92@example.com,(671)393-6576x458,Singapore,Singapore,Home Office,07-07-2020
+CUST00316,Scott Brooks,Female,25,davissonia@example.com,630-591-7698x137,Sydney,Australia,Consumer,26-10-2024
+CUST00677,Judith Wells,Other,57,jasminevega@example.org,(529)514-9410,Toronto,Canada,Corporate,14-02-2020
+CUST00360,Martha Wilson,Male,58,johnsonashley@example.net,296-633-7857,Toronto,Canada,Consumer,15-07-2020
+CUST00946,Brianna Townsend,Male,70,elizabeth34@example.org,376.421.0142x161,Berlin,Germany,Home Office,10-09-2019
+CUST00694,James Watts,Female,52,mckaythomas@example.net,(305)240-4689,Munich,Germany,Home Office,30-04-2019
+CUST00372,Jennifer Davis,Other,68,jacob80@example.net,823.345.9915x0955,Munich,Germany,Corporate,03-09-2024
+CUST00693,Sarah Smith,Other,49,anthony21@example.org,(997)634-0520,New York,USA,Consumer,09-05-2019
+CUST00341,Monica Gonzalez,Male,68,raymond01@example.com,(639)622-6415x921,Paris,France,Home Office,24-07-2023
+CUST00643,Emily Rodriguez,Male,67,owalker@example.com,943-495-5499x10411,Los Angeles,USA,Consumer,02-03-2022
+CUST00400,Haley Mitchell,Female,36,nielsentraci@example.org,564.972.4123,Berlin,Germany,Consumer,01-01-2020
+CUST00891,Mario Hayes,Female,50,garrett82@example.org,001-854-744-5343x5413,Paris,France,Home Office,21-06-2019
+CUST00385,Scott Reed,Other,62,,001-748-803-5637x340,Melbourne,Australia,Consumer,09-06-2022
+CUST00950,Troy Morgan,Male,65,kimrios@example.org,+1-732-389-7596x758,London,UK,Corporate,17-04-2022
+CUST00222,Amanda Wong,Female,32,ibeck@example.net,(926)550-5230x971,Tokyo,Japan,Consumer,06-02-2024
+CUST00729,Craig Reyes,Male,32,ccurry@example.org,001-564-893-5466x11215,Los Angeles,USA,Corporate,26-07-2022
+CUST00248,Alexandra Savage,Female,70,jcooke@example.org,(208)519-5003,London,UK,Consumer,24-01-2022
+CUST00552,Megan Cruz,Male,52,obell@example.net,318-702-5444,Chennai,India,Consumer,12-03-2022
+CUST00418,Maria Pena,Female,52,vasquezjacob@example.net,(487)403-9305x888,London,UK,Consumer,23-07-2023
+CUST00453,Pamela Thompson,Female,31,donald03@example.com,627-672-6335x05403,Paris,France,Consumer,01-07-2020
+CUST00192,Anthony Patel PhD,Female,46,zacharywiley@example.org,582-740-9465x2447,Los Angeles,USA,Home Office,26-07-2024
+CUST00855,Lawrence Flowers,Female,69,clinton39@example.net,7415204741,Vancouver,Canada,Consumer,25-04-2021
+CUST00698,Joy White,Male,61,allisoncase@example.com,001-511-945-7064x644,Lyon,France,Consumer,03-08-2022
+CUST00863,Christopher Collins,Female,25,ramosdavid@example.org,575-251-2358x54300,Houston,USA,Corporate,27-05-2023
+CUST00300,Jason Hicks,Female,59,louisnewman@example.com,(942)312-9327x9837,New York,USA,Home Office,06-02-2019
+CUST00699,Evan Murray,Male,44,mark18@example.net,4366430477,Chicago,USA,Consumer,03-06-2020
+CUST00659,Robert Mclaughlin,Other,27,robert53@example.com,+1-718-964-8077x1568,Chicago,USA,Consumer,15-11-2020
+CUST00404,Kenneth Clark,Female,48,davismatthew@example.org,-4586,Sydney,Australia,Corporate,10-08-2019
+CUST00363,Stephanie Mcdonald,Other,59,watsonchristopher@example.net,620-790-2244x18262,Melbourne,Australia,Home Office,20-01-2020
+CUST00086,Rachel Hart,Female,67,michelle26@example.org,906-399-0798x01696,Sydney,Australia,Consumer,31-01-2019
+CUST00219,Justin Vasquez,Other,34,ewilson@example.org,967.901.3145,Munich,Germany,Home Office,07-06-2020
+CUST00898,Thomas Lopez,Male,55,fharris@example.com,(582)418-3639,London,UK,Corporate,04-07-2020
+CUST00344,David Norris,Male,34,saraeaton@example.org,,Sydney,Australia,Corporate,28-12-2022
+CUST00960,Robert Stone,Other,24,amandajohnson@example.org,-8627,Manchester,UK,Corporate,11-07-2024
+CUST00642,Larry Page,Other,51,nhernandez@example.net,+1-552-560-4486x0572,Delhi,India,Corporate,13-08-2022
+CUST00653,Gerald Hall,Other,57,srice@example.com,(635)342-6253x180,Singapore,Singapore,Consumer,17-03-2021
+CUST00421,Timothy Taylor,Female,55,rowlandandrea@example.com,761.576.6568x40832,Singapore,Singapore,Corporate,30-04-2023
+CUST00429,Matthew Salazar,Male,34,aboyd@example.com,203.971.3161x9973,Manchester,UK,Consumer,16-01-2020
+CUST00487,Jonathan Robertson,Male,52,kristin76@example.com,+1-732-930-6999x5493,Chennai,India,Consumer,07-07-2022
+CUST00114,Charles Johnston,Female,23,christophermora@example.com,+1-635-836-0004x974,Tokyo,Japan,Consumer,07-02-2022
+CUST00017,Karen David,Other,67,sandra37@example.org,(416)675-1361x34125,Manchester,UK,Corporate,18-04-2024
+CUST00619,Tammy Mann,Female,23,hannahhughes@example.org,-7640,Munich,Germany,Corporate,21-12-2024
+CUST00747,Anna Harmon,Other,31,rangelbrett@example.com,(455)778-4416,Mumbai,India,Consumer,29-09-2021
+CUST00840,Keith Brown,Male,51,oholt@example.net,-9603,Berlin,Germany,Corporate,18-03-2024
+CUST00005,Ryan Duffy,Female,21,eterry@example.org,001-949-274-6507x5291,Manchester,UK,Consumer,23-04-2020
+CUST00313,Anne Guerrero,Male,57,lopezdawn@example.net,+1-860-536-6635x84696,Vancouver,Canada,Corporate,05-05-2021
+CUST00437,Michael Lewis,Female,56,christopher72@example.com,417.581.2713x982,Bengaluru,India,Consumer,04-12-2020
+CUST00722,Stephanie Oliver,Male,59,nathan05@example.net,(537)312-2891,Bengaluru,India,Corporate,29-01-2020
+CUST00348,William Arroyo,Other,21,ricemeghan@example.org,+1-620-287-7944x069,Manchester,UK,Consumer,16-08-2020
+CUST00234,Riley Hayes,Male,34,omoody@example.net,379-962-0393,London,UK,Consumer,11-06-2020
+CUST00741,Kathleen Good,Female,36,francesfarmer@example.com,4596015473,Manchester,UK,Consumer,09-01-2024
+CUST00570,Larry Hopkins,Female,,dgriffith@example.com,332.477.3817,Berlin,Germany,Consumer,22-04-2022
+CUST00389,Selena Taylor,Male,20,michael52@example.org,,Tokyo,Japan,Home Office,12-01-2019
+CUST00708,Patricia Smith,Other,31,berryrobert@example.org,720-717-4452x927,Vancouver,Canada,Consumer,06-11-2023
+CUST00405,Anthony Yang,Male,63,john68@example.com,(870)893-1970x567,Los Angeles,USA,Consumer,01-02-2020
+CUST00402,Matthew Barton,Female,57,corey08@example.org,-8274,Singapore,Singapore,Consumer,27-05-2021
+CUST00841,Joseph Robles DDS,Male,53,kaitlynford@example.net,466.481.0952,Berlin,Germany,Corporate,11-02-2023
+CUST00589,Melissa Miller,Male,69,pamelamorris@example.net,385.910.0748x9623,New York,USA,Consumer,04-11-2023
+CUST00665,George Edwards Jr.,Female,57,bowengary@example.org,001-518-411-1535x565,Bengaluru,India,Home Office,27-11-2021
+CUST00243,Alexandria Lowe,Other,65,lisanewman@example.org,001-722-244-8566x4238,London,UK,Consumer,26-01-2021
+CUST00576,Robert Miller,Male,34,qfritz@example.org,+1-476-630-3986x0434,Houston,USA,Corporate,04-10-2020
+CUST00469,Linda Goodman,Other,37,sjones@example.com,792.790.6347x52245,Berlin,Germany,Consumer,11-02-2019
+CUST00602,Wanda Jordan,Other,31,joseph43@example.net,2377143307,Sydney,Australia,Consumer,10-03-2024
+CUST00689,Matthew Fuller,Male,45,lgutierrez@example.net,230-875-9240,Melbourne,Australia,Consumer,21-02-2023
+CUST00795,James Jones,Male,62,karen82@example.org,809-899-0303,Mumbai,India,Corporate,05-04-2023
+CUST00238,Michael Townsend,Male,31,amanda59@example.org,971-242-0821,Toronto,Canada,Home Office,19-10-2020
+CUST00259,Michele Thompson MD,,22,lauragarrett@example.net,9789907890,Singapore,Singapore,Home Office,15-04-2024
+CUST00054,Stephanie Williams,Other,28,contrerasmario@example.com,+1-978-446-4936x657,Berlin,Germany,Consumer,21-02-2019
+CUST00119,Theresa Brown,Other,44,shannoncruz@example.org,569.207.0933,New York,USA,Consumer,16-12-2019
+CUST00648,Angel Rodriguez,Other,58,dillonjoseph@example.net,-9522,Manchester,UK,Home Office,24-10-2021
+CUST00545,Joseph Barton,Male,42,nicolegutierrez@example.com,(739)869-2305,Tokyo,Japan,Consumer,16-07-2022
+CUST00608,Melissa Delacruz,Female,50,nelsonjohn@example.org,(551)510-9272x0543,Bengaluru,India,Corporate,20-04-2023
+CUST00307,Darren Novak,Female,36,timothy66@example.net,001-784-419-0743x27694,Sydney,Australia,Consumer,14-08-2022
+CUST00721,Joseph Robertson,Female,70,albertpalmer@example.org,(984)620-3538,Vancouver,Canada,Home Office,04-02-2024
+CUST00396,Brittany Burch,Male,31,jeffrey56@example.org,001-779-298-0993,Mumbai,India,Consumer,28-04-2023
+CUST00446,Jason Stewart,Female,51,whiteveronica@example.net,001-981-649-5511,New York,USA,Corporate,08-06-2022
+CUST00973,Katelyn Edwards,Other,63,tammy18@example.com,843.589.6800x803,Delhi,India,Home Office,07-03-2022
+CUST00605,Kayla Macdonald,Male,,stephen72@example.org,001-816-484-6782x316,Berlin,Germany,Home Office,15-06-2023
+CUST00478,Dr. Devin Mitchell,Male,31,ewilliamson@example.org,938-712-6046x91439,Bengaluru,India,Consumer,05-03-2019
+CUST00748,Ricky Butler,Other,31,kevin59@example.org,001-386-226-9666x065,Munich,Germany,Home Office,26-12-2019
+CUST00897,Elizabeth Chavez,Female,22,kimberly49@example.org,001-869-464-0295,Tokyo,Japan,Corporate,04-11-2023
+CUST00266,Debbie Martin,,33,thomasfloyd@example.com,303-829-4168x973,Sydney,Australia,Consumer,25-06-2024
+CUST00139,Rebecca Taylor,Female,31,simssusan@example.net,476-782-3971,Paris,France,Consumer,28-08-2023
+CUST00927,Jeffrey Cook,Other,35,espinozaamanda@example.com,774-368-8967x69195,Berlin,Germany,Consumer,22-05-2023
+CUST00505,Melissa Martin,Male,68,thomas86@example.net,+1-318-756-2512x7287,Tokyo,Japan,Home Office,12-05-2023
+CUST00167,Benjamin Avila,Other,24,along@example.com,+1-801-999-7766x7217,Los Angeles,USA,Consumer,24-10-2019
+CUST00924,Joshua Romero,Other,48,terryscott@example.net,7815682323,Singapore,Singapore,Consumer,24-07-2023
+CUST00358,Molly Thompson,Other,48,richard76@example.org,001-950-564-2853x64225,Toronto,Canada,Consumer,29-10-2019
+CUST00667,John Turner,Male,50,nmorrow@example.com,(959)350-8448,Manchester,UK,Consumer,19-12-2024
+CUST00095,Brent Griffin,Female,50,jonathanjohnson@example.org,(961)300-0857,Bengaluru,India,Consumer,05-03-2024
+CUST00701,Terry Robertson,Male,44,alexandra76@example.net,4722944223,Tokyo,Japan,Consumer,09-02-2023
+CUST00375,Andrea Horton,Male,34,corey17@example.com,528.348.5746,Bengaluru,India,Consumer,25-02-2024
+CUST00839,Christina Moore,Male,32,david15@example.com,201-522-7190x56086,London,UK,Consumer,13-08-2021
+CUST00641,Gregory Robbins,Female,62,amorales@example.org,877.940.0394x78411,New York,USA,Home Office,08-12-2020
+CUST00204,Kim Johnson,Female,34,fordbradley@example.net,-9546,Chicago,USA,Consumer,23-03-2020
+CUST00065,Shannon Kim,Other,40,ashleyparker@example.org,(799)419-2200x1192,Bengaluru,,Corporate,16-03-2023
+CUST00652,Mary Ross,Male,20,guerrerocristina@example.org,,Bengaluru,India,Corporate,08-07-2023
+CUST00618,Holly Carter,Female,39,gonzalezcarmen@example.com,830.373.2323x0974,Los Angeles,USA,Consumer,28-09-2024
+CUST00071,Melissa Jacobs,Male,45,baileymark@example.org,585.527.7493x257,London,UK,Consumer,09-08-2020
+CUST00832,Donald West,Female,48,dalton03@example.org,001-385-929-7893,Tokyo,Japan,Consumer,12-11-2024
+CUST00877,James Quinn,Female,55,sandrareese@example.com,905.878.3933,Lyon,France,Consumer,29-06-2021
+CUST00981,Bruce Smith,Other,46,benjaminbush@example.org,751-572-6718x539,Melbourne,Australia,Consumer,14-09-2020
+CUST00039,Elizabeth Johnson,Female,57,pdyer@example.com,843-765-3705,Toronto,Canada,Consumer,04-02-2023
+CUST00786,Jessica Valdez,Female,23,walkerkyle@example.com,467.779.7522,Vancouver,Canada,Consumer,23-04-2019
+CUST00003,Chelsea Davis,Other,31,elliottchristine@example.com,+1-686-957-9754x32319,Lyon,France,Corporate,01-04-2024
+CUST00069,Jeffrey Mills,Female,69,kathleen00@example.com,517.927.9584x9243,Chennai,India,Home Office,30-12-2019
+CUST00789,Sarah Pitts,Other,46,treed@example.org,,Manchester,UK,Consumer,09-09-2023
+CUST00822,Barry Weaver,Female,22,npetty@example.org,(632)853-0952,Sydney,Australia,Consumer,15-12-2020
+CUST00762,Linda Love,Male,19,palmermatthew@example.com,(400)411-7696x10106,Toronto,Canada,Home Office,21-12-2021
+CUST00758,Megan Lucas,Other,66,brandistevenson@example.com,920.501.0361x54652,Melbourne,Australia,Home Office,02-05-2020
+CUST00930,Jill Holmes,Male,19,amy51@example.org,+1-341-767-7671x8250,Manchester,UK,Consumer,02-03-2024
+CUST00264,Jordan Mason,Female,38,smack@example.net,001-747-856-7102x40982,Toronto,Canada,Corporate,23-02-2024
+CUST00155,Dr. Richard Woods DVM,Male,58,stephanie24@example.com,950-573-2599,Melbourne,Australia,Consumer,23-06-2022
+CUST00172,Rebekah Vargas,Other,46,usullivan@example.com,930.426.1021,Munich,Germany,Consumer,01-02-2019
+CUST00524,Peter Burns,Other,24,hbrown@example.org,001-643-961-4164x3304,Chennai,India,Corporate,19-11-2023
+CUST00152,Joseph Hill,Other,69,albert71@example.net,001-452-636-1092x10883,New York,USA,Corporate,20-08-2024
+CUST00251,Benjamin Robles,Female,19,dthomas@example.org,+1-638-656-3332x6596,Paris,France,Consumer,21-12-2019
+CUST00962,Steven Beltran,Female,26,rothcolleen@example.org,(383)824-1121x88899,Houston,USA,Consumer,09-11-2021
+CUST00986,Daniel Hughes,Female,51,rmccarty@example.org,930-393-5260x6472,Lyon,France,Corporate,23-02-2023
+CUST00417,Jonathan Krueger,Male,41,michaelhill@example.org,001-793-513-6649x5858,Delhi,India,Home Office,20-01-2019
+CUST00422,Michael Diaz,Female,60,samantha35@example.net,-7026,Paris,France,Consumer,13-07-2021
+CUST00326,Tiffany Hernandez,Female,43,jthompson@example.com,(708)747-0120x681,Bengaluru,India,Corporate,05-06-2019
+CUST00012,Virginia Friedman,Male,41,christopher13@example.com,353.379.9075,Tokyo,Japan,Corporate,16-06-2024
+CUST00188,Stephanie Foster,Female,45,gflores@example.net,926.680.0213,Toronto,Canada,Consumer,02-06-2023
+CUST00908,Alison Santos,Male,18,alyssabright@example.com,667.913.1705,Tokyo,Japan,Consumer,20-09-2023
+CUST00813,Brian White,Female,33,lhartman@example.net,001-726-594-0661x73674,Melbourne,Australia,Home Office,27-05-2024
+CUST00315,Kerri Mendoza,Male,43,warrendouglas@example.net,854.541.4360,Vancouver,Canada,Corporate,12-04-2021
+CUST00351,Erik Martinez,Male,27,fwhite@example.com,536.743.2897x7205,New York,USA,Corporate,12-11-2024
+CUST00785,Lisa Hall,Male,21,acostamakayla@example.net,001-458-945-1228x97591,Manchester,UK,Consumer,19-04-2024
+CUST00179,Kenneth Gomez,Other,27,jessica25@example.org,+1-615-307-4241x13127,Bengaluru,India,Consumer,11-12-2020
+CUST00709,Jordan Brooks,Female,29,taylormario@example.net,(210)393-0325x85240,Sydney,Australia,Home Office,15-11-2019
+CUST00634,Timothy Hunter,Male,62,joseph71@example.org,001-569-994-8092,Tokyo,Japan,Consumer,01-11-2024
+CUST00221,Julia Simon,Female,51,romancrystal@example.org,245.211.7742,Houston,USA,Consumer,11-11-2022
+CUST00932,Brandon Mcdaniel,Male,34,promero@example.com,+1-951-621-6838x833,Sydney,Australia,Consumer,16-11-2023
+CUST00101,Dr. Anne Roberts DVM,Male,47,colliertiffany@example.org,+1-807-285-8270x8425,Lyon,France,Consumer,21-06-2024
+CUST00346,Julie Frederick,Female,54,kristen35@example.org,373.538.8173x9152,Lyon,France,Consumer,13-09-2023
+CUST00847,Joseph Curry,Other,43,robin94@example.net,001-669-552-8909,Sydney,Australia,Consumer,14-07-2021
+CUST00876,David Rojas,Female,42,jennifer76@example.net,+1-323-732-8621x24312,Bengaluru,India,Consumer,18-09-2022
+CUST00770,Colleen Brennan,Other,37,ipham@example.org,765-669-7772x036,Mumbai,India,Corporate,17-09-2020
+CUST00064,Valerie Phillips,Other,40,christopherromero@example.org,933-925-3659x368,Berlin,Germany,Consumer,14-01-2024
+CUST00809,Arthur Johnson,Other,51,margaretwilliams@example.org,269.817.3975,Munich,Germany,Consumer,27-09-2022
+CUST00815,Andrea Deleon,Male,49,victoriamullins@example.net,439.728.5681,Mumbai,India,Home Office,18-08-2020
+CUST00250,David Black,Female,30,jessethompson@example.org,001-917-293-4680,London,UK,Consumer,27-08-2021
+CUST00240,Robert Zimmerman,Male,43,david37@example.net,914-867-3294,Los Angeles,USA,Corporate,18-04-2023
+CUST00223,William Combs,Other,37,kaitlyn93@example.org,(502)505-7317x5873,Singapore,Singapore,Consumer,02-01-2024
+CUST00851,Kelly Garrett,Other,56,charlesshawn@example.org,394.647.3943x6416,Lyon,France,Consumer,13-01-2022
+CUST00796,David Snyder,Female,31,jjohnson@example.net,(786)871-3846,Munich,Germany,Consumer,04-09-2021
+CUST00087,Kevin Pace,Male,29,thomasgutierrez@example.org,373-520-6001,Vancouver,Canada,Corporate,20-03-2024
+CUST00124,Alyssa Higgins,Male,35,lanceprice@example.org,001-323-653-1185x843,Bengaluru,India,Consumer,12-07-2019
+CUST00584,Alejandra May MD,Other,65,brendajohnston@example.net,(405)651-1428,New York,USA,Home Office,05-12-2021
+CUST00901,Rebecca Ramirez,Female,29,sfaulkner@example.net,(574)541-5665x492,Chicago,USA,Corporate,12-07-2020
+CUST00828,Brenda Chapman,Female,45,karenmccarthy@example.org,497.574.0342,Melbourne,Australia,Consumer,19-01-2020
+CUST00531,Tyler Andersen,,36,jadams@example.net,(887)724-7148x80525,Toronto,Canada,Corporate,26-12-2023
+CUST00640,Teresa Webb,Female,28,robyn85@example.org,937-795-9910,Tokyo,Japan,Consumer,05-05-2022
+CUST00814,William Brewer,Other,69,jbaker@example.com,(970)573-8963x42152,Los Angeles,USA,Consumer,11-06-2023
+CUST00938,Raymond Garrison,Other,43,walter99@example.com,430.476.9393x1990,New York,USA,Consumer,16-03-2019
+CUST00032,Diana Williams,Female,23,cynthia23@example.com,(985)435-6068x83106,Manchester,UK,Consumer,13-11-2022
+CUST00271,Kim White,Male,44,vanessaescobar@example.org,231-349-8566,Bengaluru,India,Consumer,31-07-2022
+CUST00918,Cindy Nichols,Other,39,grahamheather@example.net,227-664-0417,Delhi,India,Corporate,07-02-2020
+CUST00176,Ronald Martinez,Male,63,wendyayers@example.net,647-650-7137,Sydney,Australia,Consumer,02-08-2022
+CUST00090,Dillon Fischer,Male,53,kelly09@example.net,001-895-890-2949x636,Sydney,Australia,Corporate,11-08-2022
+CUST00235,Jay Patel,Other,49,johnsonjennifer@example.org,943.779.3234x42203,Munich,Germany,Consumer,17-12-2023
+CUST00706,Nicholas Richards,Female,62,alexandercarol@example.org,759-227-9830x9732,Houston,USA,Corporate,15-03-2021
+CUST00880,Mallory Herring,,35,,9857848526,Toronto,Canada,Corporate,07-09-2024
+CUST00585,Kristie Baird,,66,rebecca23@example.net,391.857.7458x370,Munich,Germany,Corporate,09-12-2021
+CUST00719,Angela Kirby,Other,66,brittanyrose@example.com,807-250-0725x68862,Houston,USA,Consumer,15-02-2019
+CUST00501,William Grant,Female,39,ariasnicholas@example.net,670-362-3161,Lyon,France,Corporate,20-11-2020
+CUST00055,Katherine Young,Other,41,zcopeland@example.com,(411)325-6517x8800,Sydney,Australia,Consumer,13-07-2024
+CUST00109,Donna Torres,Male,68,davidwheeler@example.net,617-698-2718x246,Sydney,Australia,Home Office,17-06-2020
+CUST00016,Joseph Peters,Female,37,warebrian@example.org,501-687-8017x598,Tokyo,Japan,Home Office,18-09-2021
+CUST00821,Angela Brown,Other,68,garciamatthew@example.org,(787)992-0874x66232,New York,USA,Consumer,04-07-2020
+CUST00756,Alexis Carter,Male,38,jacksonsean@example.org,813-271-9826x531,Chicago,USA,Corporate,02-03-2021
+CUST00514,William Hernandez,Male,20,jason47@example.com,(869)624-5783,Vancouver,Canada,Consumer,27-06-2023
+CUST00963,Amanda Page,Male,32,kennedyvalerie@example.com,516-842-7145,Sydney,Australia,Consumer,29-06-2023
+CUST00745,Patricia Johnson,Female,68,ibrooks@example.net,683-229-7429,Toronto,Canada,Corporate,10-04-2021
+CUST00246,Kevin Calderon,Male,35,webbrobert@example.net,933.858.5190,Vancouver,Canada,Consumer,21-02-2019
+CUST00131,Mr. Steven Torres,Other,64,milesshane@example.org,(357)279-5428,London,UK,Corporate,24-01-2019
+CUST00995,Kerry Sanchez,Other,20,hudsonjennifer@example.com,+1-680-434-8743x46841,Bengaluru,India,Consumer,05-02-2019
+CUST00569,Marissa Duarte,Female,67,wsawyer@example.com,+1-866-993-7342x431,Tokyo,Japan,Corporate,07-07-2020
+CUST00414,Michael Anderson,Other,53,kelly19@example.net,001-377-726-8056x048,Chicago,USA,Consumer,13-12-2019
+CUST00291,Michelle Bridges,Female,61,diana85@example.org,715-826-0536x02387,New York,USA,Corporate,20-07-2020
+CUST00895,Hannah James,Other,22,lucasmelissa@example.com,(598)302-3321,Munich,Germany,Home Office,21-12-2019
+CUST00376,Joshua Andrews,Male,39,laurenwilcox@example.com,,Manchester,UK,Corporate,13-07-2020
+CUST00263,James Walter,Other,37,uramos@example.com,675-610-7431,Chennai,India,Consumer,10-09-2023
+CUST00519,Haley Garcia,Other,21,weberjonathan@example.com,576-617-4135,Delhi,India,Corporate,09-08-2021
+CUST00044,Amanda Francis,Female,21,sandra40@example.net,001-491-203-1776x46727,Houston,USA,Consumer,25-10-2023
+CUST00860,Matthew Love,Other,33,zgarza@example.net,432.876.2315x5777,Singapore,Singapore,Consumer,16-04-2020
+CUST00583,Marc Harvey,Male,38,ronaldvega@example.com,948.483.1944,Chennai,India,Consumer,27-11-2024
+CUST00794,Roger Smith,Female,67,lisahunter@example.org,001-874-214-1517x66551,Toronto,Canada,Corporate,29-08-2022
+CUST00252,Bradley Lee,Other,67,david42@example.com,479.577.4783x7982,Delhi,India,Consumer,10-06-2019
+CUST00480,Roger Griffin,Male,60,xbowen@example.org,673.950.4469,Singapore,Singapore,Home Office,04-10-2020
+CUST00915,John Parker,Female,34,shannonthompson@example.org,789.470.0862x6372,Chennai,India,Home Office,01-07-2022
+CUST00121,Wesley Roberts,,34,danny86@example.com,(811)265-8363x7453,Manchester,UK,Home Office,03-09-2020
+CUST00555,Jeffrey Frazier,Male,34,terriflores@example.org,435.308.4992,Mumbai,India,Consumer,29-06-2020
+CUST00549,Joanna Roberts,Male,36,ramirezsharon@example.com,554.744.1521x43965,Vancouver,Canada,Corporate,04-04-2022
+CUST00277,April Walker,Female,55,agarcia@example.org,-6227,Manchester,UK,Consumer,17-02-2023
+CUST00869,Lawrence Brown,Male,69,ibradford@example.net,787-689-6602,Sydney,Australia,Consumer,29-04-2024
+CUST00157,James Perry,Male,65,cmacias@example.net,830.302.8939,New York,USA,Consumer,16-05-2023
+CUST00120,Carrie Smith,Male,51,mtorres@example.com,413.469.3646x7031,Berlin,Germany,Corporate,24-02-2021
+CUST00245,Stephen Leach,Female,46,perezchad@example.org,603.776.4764x9755,Mumbai,India,Corporate,10-06-2022
+CUST00110,Joshua Franco,Male,23,debraharris@example.net,(578)849-7740x353,Manchester,UK,Home Office,25-10-2024
+CUST00097,Amy Tran,Male,44,hoodbrandon@example.net,001-370-912-5034x997,London,UK,Corporate,10-12-2020
+CUST00268,Kristine Garcia,Male,45,lgill@example.com,(651)756-1279,Melbourne,Australia,Consumer,23-04-2021
+CUST00893,Dawn Clark,Male,60,holmeschristopher@example.net,001-782-754-1288x735,Toronto,,Consumer,07-10-2019
+CUST00864,Michael Patterson MD,Male,27,daniellebryan@example.org,3356177328,,USA,Corporate,12-10-2022
+CUST00492,Eugene Cobb,Other,59,kellycoleman@example.com,001-212-305-5142x1266,Vancouver,Canada,Corporate,21-03-2024
+CUST00661,Todd Larsen,Female,33,victor70@example.com,295.861.0083x2337,Delhi,India,Corporate,10-10-2022
+CUST00006,Oscar Sanders,Male,58,cmiller@example.com,-5665,Tokyo,Japan,Consumer,01-07-2019
+CUST00340,Leah Schwartz,Other,35,tyler68@example.net,001-537-607-3570x44279,Vancouver,Canada,Consumer,18-03-2022
+CUST00093,Stacey Boyd,Other,50,mhunter@example.org,831.424.5995,Chicago,USA,Consumer,23-06-2020
+CUST00679,Shelby Berry,Other,63,dwatson@example.org,303.737.3672x2494,Chennai,India,Consumer,26-10-2022
+CUST00174,Matthew Scott,Other,51,jjennings@example.org,001-620-727-4395x824,Tokyo,Japan,Consumer,17-04-2022
+CUST00369,Melinda Hayes,Other,59,susan07@example.net,-7766,Delhi,India,Consumer,29-06-2024
+CUST00168,Alexandra Hall,Female,63,richardwilliams@example.net,385-567-1131x9017,London,UK,Corporate,21-05-2022
+CUST00752,Charles Rogers,Male,61,rachel00@example.org,-6604,Sydney,Australia,Consumer,30-05-2021
+CUST00680,Brian Ruiz,Male,18,dawnsimmons@example.org,829.236.0423x975,Toronto,Canada,Consumer,16-07-2022
+CUST00892,Nicholas Valdez,Male,40,wayne16@example.org,(223)991-1554,Lyon,France,Home Office,27-02-2021
+CUST00384,Ryan Calderon,Other,62,randywalker@example.net,490-786-9928x01233,Manchester,UK,Consumer,26-12-2024
+CUST00079,Mary Cox,Male,45,melissa01@example.net,428-559-0031x44919,Houston,USA,Consumer,11-02-2020
+CUST00362,Kenneth Pena,Male,59,sarah32@example.net,+1-988-442-9182x03588,Berlin,Germany,Home Office,27-04-2022
+CUST00592,Jerry Mathews,Female,19,jenkinsjames@example.com,(826)290-8616x70394,Bengaluru,India,Home Office,27-03-2024
+CUST00426,Joshua Hill,Female,37,campbellroy@example.net,001-549-840-1328x50127,Manchester,UK,Consumer,11-02-2020
+CUST00136,Megan Bradley,Female,20,umiller@example.net,868.726.9910x594,Singapore,Singapore,Consumer,19-11-2021
+CUST00714,Miranda Baird,Female,24,chapmankelsey@example.org,8002453153,New York,USA,Home Office,17-12-2020
+CUST00663,Michael Gordon,Male,59,thernandez@example.org,(326)678-0208x12763,Singapore,Singapore,Corporate,22-11-2019
+CUST00423,John Bailey,Male,47,oliviamolina@example.org,932.872.9411,Melbourne,Australia,Corporate,13-03-2024
+CUST00100,Devin Franco,Male,63,linda47@example.org,777-812-8038x74143,Munich,Germany,Corporate,11-12-2024
+CUST00594,Erin Garcia,Other,41,francocynthia@example.net,585.445.0540,Manchester,UK,Consumer,15-11-2021
+CUST00526,Bonnie Wagner,Male,61,brivera@example.net,(729)408-4180,New York,USA,Consumer,27-02-2024
+CUST00041,James Lewis,Other,61,robertmckinney@example.org,(875)711-2532x8704,Sydney,Australia,Home Office,28-11-2024
+CUST00035,Jason Warren,Other,42,wnelson@example.org,949.852.8831x4366,Delhi,India,Home Office,21-09-2024
+CUST00878,Kelly Beasley,Male,33,lewisrichard@example.com,591-374-6558x5140,Chennai,India,Consumer,30-03-2024
+CUST00473,Thomas Mahoney,Male,51,juliecarlson@example.org,(319)647-7108,Tokyo,Japan,Home Office,14-09-2021
+CUST00403,David Larson,Male,45,novakmichelle@example.org,+1-273-297-1332x0929,New York,USA,Corporate,19-06-2019
+CUST00610,Sylvia Reynolds MD,Male,44,aramos@example.org,001-390-440-3740x666,Vancouver,Canada,Consumer,06-01-2019
+CUST00166,Richard Knapp,Male,48,cbennett@example.net,001-746-369-4536x92939,Singapore,Singapore,Corporate,29-12-2022
+CUST00827,David Lewis,Female,23,floresmichael@example.com,+1-903-892-2707x3319,Lyon,France,Corporate,07-06-2024
+CUST00116,Whitney Cooper,Female,19,jacksonlouis@example.org,582-814-5862x8483,Delhi,India,Home Office,04-02-2020
+CUST00565,Eric Black,Female,68,mariaholt@example.org,5378919155,Houston,USA,Consumer,06-08-2021
+CUST00765,Cindy Lee,Female,40,kingkarina@example.com,4929703733,Bengaluru,India,Consumer,05-07-2022
+CUST00952,Felicia Taylor,Female,61,martinbrandon@example.net,001-239-460-1711x649,Delhi,India,Home Office,12-08-2024
+CUST00405,Anthony Yang,Male,63,john68@example.com,(870)893-1970x567,Los Angeles,USA,Consumer,01-02-2020
+CUST00573,David Jones,Male,53,michelle46@example.net,(370)428-8456x45151,Chicago,USA,Consumer,11-05-2021
+CUST00742,Cindy Anderson,Male,35,gallegosbrent@example.org,(945)307-7894x554,Lyon,France,Consumer,05-01-2021
+CUST00072,Samantha Williamson,Other,43,theresacummings@example.net,652.635.3412x13622,Paris,France,Consumer,10-08-2021
+CUST00306,Elizabeth Gardner,Other,41,darrellsimon@example.org,905-929-6861x1874,Mumbai,India,Consumer,19-04-2021
+CUST00807,Victor Jones,Male,26,lowerymark@example.net,001-612-374-9836x250,Berlin,Germany,Corporate,30-07-2021
+CUST00113,Brittany Horn MD,Other,50,grayshaun@example.com,954-656-8896x5076,Berlin,Germany,Consumer,08-02-2020
+CUST00184,Susan Walton,Female,55,gonzalezcolleen@example.com,(815)892-7724x40792,Lyon,France,Consumer,13-12-2023
+CUST00373,Erin Robbins,Male,42,douglas09@example.org,785.638.1053x684,Chennai,India,Corporate,18-03-2022
+CUST00761,Frank Wright,Female,47,kevin57@example.net,001-585-745-0958,Mumbai,India,Consumer,15-06-2021
+CUST00338,Robert Chavez,Other,50,katherine29@example.net,+1-868-513-4548x3185,London,UK,Corporate,19-09-2022
+CUST00254,Nicole Smith,Male,34,courtneybyrd@example.com,799-935-2886x24120,Chicago,USA,Corporate,23-08-2021
+CUST00493,Amanda Mayer,Male,61,gsilva@example.net,+1-376-746-9855x5663,New York,USA,Consumer,28-06-2024
+CUST00461,Timothy Lopez,Other,30,audrey58@example.org,9817336019,Chicago,,Corporate,13-10-2023
+CUST00359,Victoria Carrillo,Male,63,aaron62@example.org,713-214-8759x344,Vancouver,Canada,Consumer,10-03-2023
+CUST00889,Megan Ellis,Other,63,michael61@example.net,(656)872-6361,Manchester,UK,Consumer,20-08-2024
+CUST00177,Ann Taylor,Female,43,katrina39@example.com,2994105324,Lyon,France,Consumer,30-12-2020
+CUST00948,Brooke Hughes,Male,28,jenniferturner@example.org,001-512-675-6300x49589,Chennai,India,Home Office,11-03-2024
+CUST00850,James Burch,Male,21,fvaughn@example.net,432-387-8310,Singapore,Singapore,Consumer,25-02-2023
+CUST00673,Randy Espinoza,Female,46,pagecaitlyn@example.com,001-585-885-9013x88186,Chicago,USA,Corporate,30-01-2021
+CUST00911,Cassidy Burns,Male,59,jamesmorgan@example.net,4425519756,Paris,France,Home Office,14-07-2021
+CUST00200,Brandon Rodriguez,Female,53,lhunt@example.com,405.885.4179,Sydney,Australia,Home Office,21-09-2021
+CUST00353,Andrea Allen,Male,26,zachary26@example.com,(349)717-0516x772,Sydney,Australia,Consumer,22-03-2019
+CUST00002,Theresa Mccoy,Other,24,rayrandy@example.org,6824462819,Los Angeles,USA,Consumer,14-08-2019
+CUST00954,John Garza,Male,50,shannonray@example.net,9786597448,Toronto,Canada,Home Office,06-09-2023
+CUST00614,Anthony James,Female,29,icline@example.net,580-556-0128x43265,Singapore,Singapore,Corporate,24-12-2024
+CUST00595,Michael Gill,Other,21,,001-861-534-5803x94087,Toronto,Canada,Consumer,02-03-2019
+CUST00906,Adam Hernandez,Other,21,erinhuff@example.com,209.599.8939,Houston,USA,Consumer,19-02-2021
+CUST00308,Charles Nelson,Male,24,davidsmith@example.org,8976497111,Vancouver,Canada,Consumer,13-01-2022
+CUST00593,Shannon Barber,Female,38,guzmanteresa@example.org,001-437-634-7689x5326,Chicago,USA,Consumer,30-01-2020
+CUST00233,Erin Shaw,Male,37,jacobhickman@example.net,9263640341,London,UK,Consumer,24-05-2019
+CUST00784,Sandy Barton,Other,28,watsonwilliam@example.com,753.785.2672,Melbourne,Australia,Consumer,26-09-2023
+CUST00787,Jennifer Diaz,Male,26,laura66@example.com,582-537-8868x73535,London,UK,Corporate,31-05-2022
+CUST00278,Christopher Jones,Female,34,vickimora@example.org,(487)443-1797x4197,London,UK,Consumer,28-05-2019
+CUST00482,Jeffrey Cox,Other,23,fisherdawn@example.org,392.604.2220x1940,Chennai,India,Corporate,08-10-2023
+CUST00144,Marcus Lewis,Male,37,jessica59@example.com,,Tokyo,Japan,Consumer,12-05-2023
+CUST00951,Michael Collins,Female,29,kaitlynhouston@example.org,001-623-263-0106x8385,Lyon,France,Consumer,10-10-2023
+CUST00091,Rhonda Campbell,Female,,morrisjoseph@example.org,001-704-329-2487,Los Angeles,USA,Consumer,29-03-2022
+CUST00775,Jorge Hansen,Other,25,marthamyers@example.net,001-599-854-3000,Los Angeles,USA,Home Office,14-02-2020
+CUST00554,Peter Hayes,Male,61,jordanlaura@example.net,+1-618-842-6535x071,Manchester,UK,Consumer,22-04-2019
+CUST00598,Pamela Clark,Male,35,davidsonanthony@example.net,-1181,Delhi,India,Consumer,05-12-2022
+CUST00613,Kimberly Mcdonald,Male,23,catherinemartin@example.net,001-908-317-5654x771,Vancouver,Canada,Consumer,21-11-2019
+CUST00311,Gabriel Pierce,Other,42,daviszachary@example.com,551.858.8445,Paris,France,Consumer,25-06-2024
+CUST00287,Sarah Allen,Other,57,kwillis@example.com,309-558-9187,Houston,USA,Corporate,11-04-2020
+CUST00497,Alexis Burnett,Other,41,folsen@example.org,-10344,Paris,France,Consumer,25-04-2020
+CUST00312,Linda George,Other,62,veronicaharding@example.com,+1-532-882-8014x254,Chicago,USA,Home Office,10-10-2021
+CUST00925,Andrew Hernandez,Female,59,xharvey@example.net,505-666-9563x09854,Los Angeles,USA,Corporate,28-11-2024
+CUST00509,George Cook,Other,21,whitesteven@example.com,(325)890-5971,Chennai,,Corporate,25-11-2020
+CUST00801,April Reynolds,Female,66,theresa33@example.com,(459)382-5994,Chicago,USA,Consumer,06-10-2022
+CUST00769,Curtis Berry,Female,27,gloverian@example.net,473-558-5878x9539,Delhi,India,Consumer,22-05-2019
+CUST00019,Julian Alexander,Other,46,cruzzachary@example.com,811.431.1440x24264,Chennai,India,Home Office,21-03-2022
+CUST00357,Daniel Shields,Female,55,rachelrobertson@example.com,001-447-524-4739,Manchester,UK,Consumer,30-08-2021
+CUST00502,Daniel Barton,Other,40,bsmith@example.net,-1510,Sydney,Australia,Home Office,04-03-2022
+CUST00298,Natasha Liu,Male,37,richard25@example.com,001-362-682-6278x3335,Munich,Germany,Consumer,27-08-2020
+CUST00075,Adam Decker,Female,69,johnsonamy@example.org,001-738-751-9783x780,Toronto,Canada,Corporate,18-06-2021
+CUST00539,Reginald Lopez,Other,28,kathleenkim@example.com,,Houston,USA,Consumer,09-02-2024
+CUST00537,Logan Russell,Other,64,egreen@example.com,820.515.5465,Los Angeles,USA,Consumer,05-11-2019
+CUST00672,Jessica Matthews,Male,53,smithdaniel@example.org,991.352.7239,Los Angeles,USA,Corporate,03-06-2023
+CUST00216,Gregory Rogers,Other,24,singletoncharles@example.org,(294)842-0271,Toronto,Canada,Consumer,10-07-2020
+CUST00674,Holly Luna,Female,40,schmittcourtney@example.org,001-493-231-3102x811,Los Angeles,USA,Consumer,03-10-2022
+CUST00126,Thomas Gross,Other,53,sullivancharlotte@example.com,542.960.8429,New York,USA,Consumer,20-04-2023
+CUST00361,Autumn Delgado,Female,,kimberly84@example.net,539-254-4491,Toronto,Canada,Home Office,05-07-2019
+CUST00849,Cody Grimes DDS,Male,41,sbarton@example.org,256-632-5500x7720,Chennai,India,Corporate,15-05-2024
+CUST00040,Robert Stevenson,Male,62,harristara@example.com,001-833-273-4419x79237,Tokyo,Japan,Consumer,09-09-2024
+CUST00118,Bryan Moore,Male,47,johnsoncharles@example.net,279.660.0952x3542,Manchester,UK,Consumer,09-10-2022
+CUST00412,Jamie Ward,Male,49,morrisrebecca@example.net,001-527-485-4437x9464,,UK,Home Office,12-12-2019
+CUST00696,Rebecca Vaughan,Female,42,kennethnelson@example.com,001-819-494-8995x3179,Sydney,Australia,Corporate,04-11-2022
+CUST00342,Marvin Gibson,Other,21,kathy85@example.com,+1-603-453-5364x50440,Berlin,Germany,Consumer,09-04-2020
+CUST00441,Andre Fernandez,Other,29,stevenwinters@example.com,001-528-669-7888,Tokyo,Japan,Home Office,21-12-2021
+CUST00189,Victoria Navarro,Female,68,wtaylor@example.com,+1-961-989-5744x54680,Sydney,Australia,Consumer,07-03-2021
+CUST00999,Diane Guzman,Female,60,ksolis@example.net,+1-631-802-0209x7395,Sydney,Australia,Consumer,08-09-2019
+CUST00153,Chase Thompson,Male,26,allisonbell@example.net,277.335.6735,Manchester,UK,Consumer,17-12-2022
+CUST00476,Julian Mills,Male,55,tanyawells@example.com,5794168858,Munich,Germany,Consumer,02-02-2023
+CUST00203,George Flores,Female,53,melissarice@example.com,463.254.0348x66262,Manchester,UK,Consumer,01-09-2019
+CUST00096,Tammy Mccarthy,Female,53,scottanne@example.net,486-227-2533,Manchester,UK,Corporate,25-08-2024
+CUST00711,Mary Simmons,Other,58,stacy47@example.net,001-478-328-5462x49242,Lyon,France,Corporate,30-11-2020
+CUST00559,Amanda Brown,Other,38,janice74@example.com,(889)265-1543,Berlin,Germany,Home Office,27-05-2021
+CUST00671,Candice Adams,Male,36,wreese@example.com,001-369-649-2837x11973,Munich,Germany,Home Office,05-12-2024
+CUST00229,Jacob Cuevas DDS,Male,49,daniel82@example.com,+1-761-479-7598x556,Delhi,India,Home Office,13-11-2023
+CUST00255,Joseph Smith,Other,39,danielle71@example.com,269-699-4056x158,London,UK,Corporate,06-05-2024
+CUST00657,Amanda Stuart,Other,28,tanyaflores@example.org,(507)603-1291,Houston,USA,Consumer,12-01-2023
+CUST00160,Melissa Haas,Female,33,reginald58@example.com,(526)566-2039x8496,Berlin,Germany,Corporate,24-12-2022
+CUST00390,Joshua Lopez,Other,28,qmoreno@example.org,594.811.2751,New York,USA,Consumer,01-09-2020
+CUST00336,Christine Brown,Other,35,brianevans@example.org,237.347.8681,Berlin,Germany,Consumer,14-01-2020
+CUST00034,Gary Malone,Other,35,mtaylor@example.org,525-281-5354,Toronto,Canada,Corporate,01-07-2023
+CUST00401,Fred Gray,Female,38,jacobramirez@example.com,3975111623,Los Angeles,USA,Corporate,30-05-2020
+CUST00237,Kelly Cox,Male,56,xmoreno@example.org,519-966-7148,Delhi,India,Home Office,28-11-2020
+CUST00682,Jared Johnson,Other,27,dtucker@example.net,(234)912-9685x0016,Chennai,India,Consumer,25-10-2021
+CUST00819,Tina Thompson,Male,46,brittany69@example.net,357.292.7804,Mumbai,India,Consumer,20-08-2024
+CUST00156,Christine Stephenson,Female,34,brandon72@example.com,(740)312-0242,Melbourne,Australia,Corporate,05-07-2023
+CUST00220,Anthony Hicks,Other,66,kgarner@example.net,(310)968-0382x8531,Sydney,Australia,Corporate,04-08-2020
+CUST00862,Cody Lucas,Other,46,matthew79@example.net,733-949-6881x42419,New York,USA,Corporate,16-06-2021
+CUST00562,Erica Bell,Other,40,gbooker@example.net,388.361.4485x2343,Munich,Germany,Consumer,23-11-2022
+CUST00333,Tammy Woods,Female,36,glenking@example.net,2609487536,Houston,USA,Consumer,21-12-2024
+CUST00265,Jonathan Wallace,Other,23,millermelissa@example.org,479.371.4592,Bengaluru,India,Consumer,14-11-2022
+CUST00317,William Tanner,Other,70,duranbrittany@example.net,001-497-582-6287x456,Toronto,Canada,Consumer,17-07-2019
+CUST00158,Steven Brown,Male,60,martineztony@example.org,760.523.8288x18571,Sydney,Australia,Home Office,13-02-2024
+CUST00737,Emily Austin,Female,43,breed@example.net,(254)372-0626x19381,New York,USA,Home Office,30-12-2020
+CUST00976,Donna Collins,Male,58,cheryl94@example.net,(719)258-1647,Mumbai,India,Home Office,14-12-2020
+CUST00942,Jacob Kennedy,Female,31,wrightleslie@example.net,517.361.8637x287,Delhi,India,Consumer,05-09-2019
+CUST00327,Timothy Weaver,Female,45,carpenterdavid@example.com,727.413.2430x04127,Houston,USA,Consumer,10-07-2024
+CUST00817,Erica Mooney,Male,27,martinezdaniel@example.net,370.723.2691x36588,Singapore,Singapore,Corporate,19-04-2021
+CUST00597,Ronald Livingston,Female,44,jonperez@example.net,2588480547,Bengaluru,India,Home Office,25-05-2024
+CUST00896,Jessica Acevedo,Female,34,justin47@example.net,964-432-6966x37579,Toronto,Canada,Consumer,24-08-2023
+CUST00239,Paul Townsend,Male,44,jmeyer@example.com,001-810-404-2811x528,New York,USA,Home Office,09-06-2020
+CUST00777,Andre Banks,Male,44,danielthompson@example.com,743.222.0062x0212,Lyon,France,Corporate,09-03-2021
+CUST00301,Christina Johnson,Female,31,medinajeff@example.com,+1-693-392-5517x1242,London,UK,Consumer,12-05-2019
+CUST00458,Michael Walker,Male,32,christopherrobinson@example.org,001-467-429-7151x09264,Lyon,France,Corporate,13-11-2023
+CUST00857,Mario Brown,Other,40,tammy88@example.org,875.686.3510,Lyon,France,Consumer,31-07-2020
+CUST00164,Jacob Alvarado,Male,39,shawn14@example.com,571-777-2820x2578,London,UK,Consumer,20-02-2022
+CUST00043,Frank Mclaughlin,Female,43,ajohnson@example.org,+1-760-660-7104x3195,Melbourne,,Consumer,03-01-2021
+CUST00137,Elizabeth Cooper,Female,46,charlesjeffrey@example.net,912.895.8965x839,Bengaluru,India,Consumer,26-07-2020
+CUST00713,William Acosta,Other,53,ysummers@example.org,+1-215-800-2776x89394,New York,USA,Consumer,12-09-2021
+CUST00059,David Gilbert,Other,39,phillipszachary@example.com,+1-295-400-3249x6685,Manchester,UK,Consumer,06-12-2021
+CUST00890,Dana Lewis,Other,39,brandy63@example.org,-8366,Mumbai,India,Consumer,02-08-2021
+CUST00159,Courtney Jones,Other,48,alexisadams@example.org,280.968.5405,Sydney,Australia,Consumer,06-04-2022
+CUST00435,Joshua Collins,Female,62,reginalawson@example.org,(621)321-8604x78808,New York,USA,Consumer,17-09-2022
+CUST00703,Brianna Moore,Other,70,tammy05@example.org,(339)448-1361,Paris,France,Corporate,16-07-2022
+CUST00454,Aaron Eaton,Male,64,kelleybrett@example.com,(529)591-3223x31081,Vancouver,Canada,Consumer,10-02-2024
+CUST00928,Carrie Griffin,Other,48,wattsjennifer@example.org,+1-528-744-6248x795,Toronto,Canada,Consumer,06-09-2019
+CUST00724,Michelle Delgado,Female,35,beckwendy@example.net,311.966.2984,Toronto,Canada,Corporate,24-06-2019
+CUST00264,Jordan Mason,Female,38,smack@example.net,001-747-856-7102x40982,Toronto,Canada,Corporate,23-02-2024
+CUST00854,Melanie Marsh,Other,40,stacy68@example.org,866-575-1754x81354,London,UK,Corporate,29-10-2022
+CUST00675,Lauren Stanley,Other,65,smithedward@example.org,(605)932-9105x20238,Houston,USA,Consumer,09-11-2019
+CUST00230,Megan Norman,Other,44,owood@example.com,-6767,Los Angeles,USA,Corporate,05-02-2024
+CUST00425,Stephen Young,Female,59,sydney72@example.com,,Manchester,UK,Consumer,19-07-2021
+CUST00052,Jacqueline Gordon,Female,23,michaelmartin@example.org,716-273-4207,Bengaluru,India,Consumer,24-08-2022
+CUST00094,Katherine Delacruz,Other,35,cynthia12@example.com,+1-505-648-9010x397,,Singapore,Consumer,20-07-2024
+CUST00804,Angela Bird,Other,38,zgaines@example.org,(577)695-7944,Delhi,India,Consumer,25-06-2024
+CUST00207,Tamara Baker,Female,,taylormendoza@example.org,001-212-328-2985x18601,London,UK,Consumer,05-01-2022
+CUST00098,Caleb Olson,Female,22,scottaguirre@example.net,4739023195,Houston,USA,Consumer,29-09-2024
+CUST00477,Audrey Short,Male,67,joseph66@example.org,730.458.9059x95640,Toronto,Canada,Home Office,26-02-2022
+CUST00104,Kurt Smith,Other,43,enovak@example.org,(435)269-0417x780,Vancouver,Canada,Corporate,17-06-2020
+CUST00529,Jamie Taylor,Other,65,valerie68@example.org,+1-672-676-4463x3463,Tokyo,Japan,Consumer,17-01-2022
+CUST00212,Tammie Murphy,Female,63,pamelanorton@example.net,(310)956-5518,New York,USA,Consumer,20-12-2019
+CUST00733,Jennifer Harrison,Other,63,julieschroeder@example.org,504-930-1891x420,Manchester,UK,Corporate,10-01-2022
+CUST00940,Chad Hansen,Female,60,gregorykaren@example.com,542-928-1764x442,Delhi,India,Home Office,11-07-2023
+CUST00797,Tamara Bishop,Female,37,mccartyaaron@example.net,211-287-5171x583,Los Angeles,USA,Consumer,03-12-2024
+CUST00150,Rebecca Miller,Other,26,,200.459.5069x521,Delhi,India,Corporate,06-04-2020
+CUST00163,Helen Harris,Other,58,lisaallen@example.org,(872)405-6561,Munich,Germany,Corporate,20-03-2023
+CUST00859,Sabrina Rich,Female,69,xthomas@example.com,+1-734-730-6345x24549,Houston,USA,Consumer,22-04-2024
+CUST00548,Cindy Myers,Female,45,samantha65@example.com,725-249-4421x964,New York,USA,Consumer,26-03-2022
+CUST00217,Kevin Brown,Male,18,alexis25@example.com,-6403,Bengaluru,India,Consumer,15-06-2024
+CUST00698,Joy White,Male,61,allisoncase@example.com,001-511-945-7064x644,Lyon,France,Consumer,03-08-2022
+CUST00302,Stephanie Gonzalez,Male,45,christopherking@example.org,572-240-4735x361,,USA,Consumer,08-09-2019
+CUST00767,James Rangel,Other,61,david63@example.com,391-499-6535x951,Singapore,Singapore,Corporate,25-11-2021
+CUST00692,Veronica Kemp,Female,18,ytorres@example.org,(617)806-3201x72250,Paris,France,Consumer,13-06-2020
+CUST00738,Kelsey Hall,Female,52,mwu@example.org,998.474.2278x334,Melbourne,Australia,Consumer,12-07-2021
+CUST00691,Nancy Jones,Other,33,victoriaobrien@example.org,+1-735-693-3264x38605,Paris,France,Consumer,08-12-2022
+CUST00227,Melanie Wood,,49,ryanvargas@example.com,001-362-243-6584,Munich,Germany,Consumer,29-09-2022
+CUST00511,Dennis Pruitt,Other,62,rachelrobinson@example.net,(822)340-0997,Singapore,Singapore,Consumer,03-11-2021
+CUST00169,Michael Dawson,Female,47,jroy@example.net,001-669-626-0255x3802,Sydney,Australia,Consumer,09-07-2019
+CUST00820,Brandon Johnson,Other,41,loritravis@example.org,(937)786-8358,Chennai,India,Consumer,03-01-2022
+CUST00755,Kelly Reid,Female,63,janetjohnson@example.org,365.688.7087,Toronto,Canada,Consumer,09-08-2022
+CUST00575,Shane Gray,Other,43,shepherderika@example.org,797.759.2006x28015,Chicago,USA,Home Office,12-06-2024
+CUST00739,Marcus Wright,Other,22,montgomerydiamond@example.net,246-639-3537,Mumbai,India,Consumer,25-08-2020
+CUST00945,Linda Lopez,Female,67,jbrooks@example.com,665-476-2724x666,Tokyo,Japan,Corporate,06-10-2024
+CUST00015,Amy Singh,Female,47,hbates@example.com,928.328.8072x90222,Melbourne,Australia,Consumer,04-05-2022
+CUST00993,Sherry Gill,Male,70,brendabrooks@example.com,670-312-9216,Sydney,Australia,Consumer,09-04-2022
+CUST00510,Michelle Perry,Other,42,kathrynbrowning@example.net,001-329-703-2459,Sydney,Australia,Home Office,22-07-2020
+CUST00611,Stephanie Schmidt,Male,26,dennis98@example.org,001-563-405-4751x636,London,UK,Consumer,31-12-2019
+CUST00834,Megan Pope,Male,61,riggsrobert@example.org,941-306-5202x07471,New York,USA,Corporate,16-06-2021
+CUST00074,Marissa Rich,Male,19,erinmay@example.com,(854)416-3624x67709,Vancouver,Canada,Consumer,13-05-2024
+CUST00902,Jeff Ramirez,Other,19,rarmstrong@example.org,482.486.4831,Berlin,Germany,Home Office,07-11-2023
+CUST00884,Carolyn Reed,,58,samantha22@example.com,(688)480-0361x790,Houston,USA,Home Office,11-05-2023
+CUST00141,Omar Gould,Other,59,mwilliams@example.com,758-559-1034,Chicago,USA,Consumer,01-03-2023
+CUST00051,Yesenia Cox,Male,49,petersullivan@example.org,(426)811-6957x22008,Lyon,France,Consumer,15-07-2019
+CUST00128,Paul Poole,Other,45,alison56@example.com,487-480-3682x73084,Houston,USA,Corporate,24-10-2024
+CUST00655,Ronald Reeves,Other,18,wayneromero@example.org,737-802-3412x23925,Houston,USA,Consumer,03-03-2022
+CUST00879,Haley Phillips,Other,20,jeffrey23@example.net,436-889-8118x7111,Bengaluru,India,Home Office,27-09-2022
+CUST00445,Adrian Williams,Female,47,rcontreras@example.net,(655)689-0986,Berlin,Germany,Corporate,24-09-2024
+CUST00185,Shelby Evans,Female,66,joneskrista@example.com,001-833-839-7837x90665,Chicago,USA,Consumer,08-09-2024
+CUST00060,Amber Brown,Male,69,kevin85@example.net,969.449.2359,Manchester,UK,Corporate,23-10-2019
+CUST00431,Ryan Howell,Male,68,anthonysmith@example.com,+1-218-721-0931x256,London,UK,Consumer,09-09-2024
+CUST00900,Matthew Clarke,Other,45,julianjackson@example.net,843.919.4447,Lyon,France,Home Office,04-11-2020
+CUST00209,Joseph Byrd,Other,58,,754-544-4279,Toronto,Canada,Corporate,16-01-2019
+CUST00456,Katie Gallagher,Male,18,nicholasbarker@example.net,001-612-220-9742x803,Berlin,Germany,Consumer,05-11-2021
+CUST00746,Javier Evans,Female,31,anna25@example.net,767-915-9046x676,Manchester,UK,Consumer,18-09-2023
+CUST00958,Dr. Michelle Kelly,Other,62,glambert@example.com,,Manchester,UK,Consumer,24-03-2019
+CUST00416,Michael Nichols,Other,23,olambert@example.net,3503954983,Mumbai,India,Home Office,26-02-2021
+CUST00466,Emily Poole,Female,61,moralesstephanie@example.com,(882)785-6828x95375,Manchester,UK,Consumer,03-03-2023
+CUST00626,Linda Jackson,Male,36,brandon70@example.net,-2879,Mumbai,India,Corporate,21-10-2020
+CUST00607,Carolyn Davis,Other,19,bishopgrant@example.net,6594270204,Munich,Germany,Consumer,25-05-2021
+CUST00997,Stephen Robertson,Female,42,wendydavila@example.net,-8647,Delhi,India,Consumer,23-04-2023
+CUST00822,Barry Weaver,Female,22,npetty@example.org,(632)853-0952,Sydney,Australia,Consumer,15-12-2020
+CUST00215,Miranda Wong,Male,32,samantha72@example.org,846-562-7175x530,Bengaluru,India,Consumer,22-08-2019
+CUST00728,Mark Fox,Male,46,cperkins@example.net,2138003521,Mumbai,India,Corporate,30-08-2024
+CUST00206,Jonathan James,Other,51,laurensmall@example.org,(593)203-1300x7063,Delhi,India,Consumer,31-07-2024
+CUST00299,Karen Bennett,Female,44,leslieaguirre@example.com,828-889-9224x167,Tokyo,Japan,Home Office,19-02-2020
+CUST00450,Marissa Meyers MD,Male,54,olivia83@example.net,+1-478-584-4383x706,London,UK,Consumer,03-03-2022
+CUST00816,Tracy Alvarez,Male,37,msantana@example.org,(294)313-0444x0852,Delhi,India,Consumer,12-06-2021
+CUST00225,Brenda Allen,Male,53,hillrobert@example.org,529.450.2362x19764,Manchester,UK,Consumer,27-09-2024
+CUST00281,Theresa Knight,Male,46,larryharris@example.net,825-858-8939x48280,New York,USA,Consumer,26-12-2022
+CUST00037,Melanie David,Male,49,xmiller@example.org,8233904248,Manchester,UK,Corporate,06-08-2019
+CUST00332,Brooke Reynolds,Male,57,olsonpatrick@example.com,(918)616-2468x2457,Toronto,Canada,Consumer,21-06-2024
+CUST00844,Matthew Brown,Other,22,fthompson@example.net,(307)732-2226x557,Chicago,USA,Home Office,09-12-2024
+CUST00579,Jennifer Ayers,Other,32,mmorris@example.com,217-243-7011x316,Lyon,France,Home Office,28-07-2022
+CUST00975,Michelle Lyons,Male,42,jamesnovak@example.net,+1-643-370-2624x85591,Delhi,India,Consumer,27-05-2024
+CUST00419,Samantha Gibbs,Other,32,jennifer87@example.net,+1-982-751-5734x78000,Sydney,Australia,Consumer,16-05-2023
+CUST00070,Pamela Henry,Male,42,burtonmichael@example.com,(516)905-3446x8826,Chicago,USA,Corporate,05-10-2019
+CUST00546,Heather Riley,Other,67,justin74@example.com,203-370-5119x8580,Mumbai,India,Corporate,11-04-2019
+CUST00009,Daniel Bennett,Female,44,stephanie95@example.com,317-777-7412,Melbourne,Australia,Home Office,11-06-2023
+CUST00644,Michael Wallace,Male,39,jorge08@example.org,8072183913,Lyon,France,Consumer,05-04-2021
+CUST00105,Manuel Jackson,Female,38,john00@example.org,,Paris,France,Consumer,09-04-2019
+CUST00935,Jacob Wallace,Female,31,dmatthews@example.net,748.946.7951,Manchester,UK,Consumer,08-06-2022
+CUST00411,Kevin Howard,Female,70,brownangela@example.net,319.395.2527x032,Tokyo,Japan,Home Office,19-09-2023
+CUST00700,Antonio Garcia,Other,53,jason93@example.com,659.570.1383x3951,Lyon,France,Consumer,26-06-2022
+CUST00750,Stacie Chavez,Female,55,fdyer@example.com,240.228.9846x14842,Berlin,Germany,Corporate,27-10-2019
+CUST00290,Jesus Ellison,Male,70,zachary21@example.net,671.654.8336x55998,Singapore,Singapore,Corporate,27-07-2023
